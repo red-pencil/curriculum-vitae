@@ -2,11 +2,14 @@
 
 ## Contact
 
-[Homepage](http://red-pencil.github.io/homepage)
+Homepage: http://red-pencil.github.io/homepage
+
+Email: tuesdayy-leon@hotmail.com, shenlc@kmd.keio.ac.jp
+
 
 ## Field of Interests
 
-- Human-Computer Interaction
+- Human-Computer Interactiona
 - Human Augmentation
 - Sensory Substitution
 - Virtual Reality / Augmented Reality
