@@ -24,21 +24,24 @@ Homepage: http://red-pencil.github.io/homepage/
 ### Master of Media Design (Master)
 
 **Keio University**
+
 Sep 2015 - Mar 2018 | Tokyo, Japan
-Graduate School of Media Design (KMD)
 
 **Pratt Institute** (exchange)
+
 Jan 2017 - May 2017 | New York, USA
-School of Design
 
 **Royal College of Art & Imperial College London** (exchange)
+
 Sep 2016 - Dec 2016 | London, UK
-School of Design
+
 
 ### Bachelor of Engineering (BEng)
 
 **Beihang University**
+
 Sep 2010 - Jun 2014 | Beijing, China
+
 Department of Industrial Design, School of Mechanical Engineering
 
 
