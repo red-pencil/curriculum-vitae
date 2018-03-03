@@ -143,17 +143,20 @@ Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi
 
 ### Best Demo Award
 
-Feb 2018 | Seoul, ROK
+Feb 2018 \| Seoul, ROK
+
 2018 Augmented Human 9th Interational Conference (AH2018)
 
 ### Excellent Prize
 
-Jan 2013 | Zhejiang, China
+Jan 2013 \| Zhejiang, China
+
 "Gifts of Fuyang" Design Competition
 
 ### Scholarship of Academic Performance
 
-Dec 2013, Dec 2012, Dec 2011 | Beijing, China
+Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
+
 Beihang Unviersity
 
 
@@ -184,5 +187,5 @@ Pencil Sketch, Marker Sketch, Gouache Drawing, Prototyping
 
 Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
 
-Engineering Drawing, Mechanical Processing
+Technical Drawing, Mechanical Mechining
 
