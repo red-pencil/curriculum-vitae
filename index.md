@@ -2,7 +2,7 @@
 
 ## Contact
 
-Homepage: http://red-pencil.github.io/homepage/
+[Homepage](http://red-pencil.github.io/homepage)
 
 ## Field of Interests
 
@@ -25,15 +25,15 @@ Homepage: http://red-pencil.github.io/homepage/
 
 **Keio University**
 
-Sep 2015 - Mar 2018 || Tokyo, Japan
+Sep 2015 - Mar 2018 | Tokyo, Japan
 
 **Pratt Institute** (exchange)
 
-Jan 2017 - May 2017 || New York, USA
+Jan 2017 - May 2017 | New York, USA
 
 **Royal College of Art & Imperial College London** (exchange)
 
-Sep 2016 - Dec 2016 || London, UK
+Sep 2016 - Dec 2016 | London, UK
 
 
 ### Bachelor of Engineering (BEng)
@@ -158,9 +158,11 @@ Beihang Unviersity
 
 ## Languages
 
-**Chinese** Native
-**English** Academic
-**Japanese** Elementary
+**Chinese** - Native
+
+**English** - Academic
+
+**Japanese** - Elementary
 
 
 
