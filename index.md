@@ -27,13 +27,11 @@ Homepage: http://red-pencil.github.io/homepage/
 Sep 2015 - Mar 2018 | Tokyo, Japan
 Graduate School of Media Design (KMD)
 
-### Global Innovation Design Program [(GID)](http://globalinnovationdesign.org)
-
-**Pratt Institute**
+**Pratt Institute** (exchange)
 Jan 2017 - May 2017 | New York, USA
 School of Design
 
-**Royal College of Art & Imperial College London** 
+**Royal College of Art & Imperial College London** (exchange)
 Sep 2016 - Dec 2016 | London, UK
 School of Design
 
@@ -43,25 +41,6 @@ School of Design
 Sep 2010 - Jun 2014 | Beijing, China
 Department of Industrial Design, School of Mechanical Engineering
 
-
-
-
-
-### Master of Media Design (Master)
-
-**Keio University** | Sep 2015 - Mar 2018 | Tokyo, Japan
-
-- ​
-
-
-- **Pratt Institute** | Jan 2017 - May 2017 | New York, USA
-- **Royal College of Art & Imperial College London** | Sep 2016 - Dec 2016 | London, UK
-
-### Bachelor of Engineering (BEng)
-
-**Beihang University** | Sep 2010 - Jun 2014 | Beijing, China
-
-Department of Industrial Design, School of Mechanical Engineering
 
 ## Experience
 
