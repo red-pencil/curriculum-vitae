@@ -50,6 +50,7 @@ Department of Industrial Design, School of Mechanical Engineering
 ### Student Researcher
 
 **Cyber Living Lab & Embodied Media Research Group**
+
 Sep 2015 - Mar 2018 | Tokyo, Japan
 
 - Develop applications of telepresence and telexistence and research on human-robot interaction.
@@ -58,6 +59,7 @@ Sep 2015 - Mar 2018 | Tokyo, Japan
 ### User Experience Design Intern
 
 **Lenovo Research**
+
 Sep 2013 - Feb 2014 | Beijing, China
 
 - Researched into user's behaviour towards variety of consumer electronics.
