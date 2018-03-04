@@ -4,31 +4,36 @@
 
 Homepage: http://red-pencil.github.io/homepage
 
-Email: tuesdayy-leon@hotmail.com, shenlc@kmd.keio.ac.jp
+Email: shen.lichao@hotmail.com, shenlc@kmd.keio.ac.jp
 
+Desgin Portfolio: 
+
+[TOC]
 
 ## Field of Interests
 
-- Human-Computer Interactiona
+- Human-Computer Interaction
 - Human Augmentation
-- Sensory Substitution
 - Virtual Reality / Augmented Reality
+- Sensory Substitution
 - Cognitive Science / Neuroscience
-- Robotics
-- Wearable Computing
-- Machine Learning
-- Computer Graphics
+- Robotics / Telepresence
 - Interaction Design
 - User Experience Design
 - Industrial Design
+- Computer Graphics
+- Wearable Computing
+- Machine Learning
 
 ## Education
 
-### Master of Media Design (Master)
+### Master of Media Design
 
 **Keio University**
 
 Sep 2015 - Mar 2018 \| Tokyo, Japan
+
+Media Design / Human-Computer Interaction
 
 **Pratt Institute** (exchange)
 
@@ -38,15 +43,13 @@ Jan 2017 - May 2017 \| New York, USA
 
 Sep 2016 - Dec 2016 \| London, UK
 
-
-### Bachelor of Engineering (BEng)
+### Bachelor of Engineering
 
 **Beihang University**
 
 Sep 2010 - Jun 2014 \| Beijing, China
 
 Department of Industrial Design, School of Mechanical Engineering
-
 
 ## Experience
 
@@ -68,19 +71,35 @@ Sep 2013 - Feb 2014 \| Beijing, China
 - Researched into user's behaviour towards variety of consumer electronics.
 - Developed the preliminary design of next generation smart devices.
 
-
-
 ## Research Projects
 
-### Limitless Oculus (Master Thesis)
+### Limitless Oculus
+
+**Master Thesis**
 
 Visual Expansion by Animal-Inspired Visuomotor Modification
+
+Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, espcially the neck was a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspried concept called Limitless Oculus. That was to substitute or modify the original visuomotor coordination of human, with certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The concept aimed to promote the flexibility of the orientation of vision, and hence achieve visual expansion and substitution. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented: one employed an extra robotic neck to increase the spatial range of vision; the other one utilized human own upper limb to control the orientation of vision. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in certain range.
+
+
 
 ### Unconstrained Neck
 
 Ominidirctional Observation from an Extra Robotic Neck
 
-### Ambient:
+[Paper](## Publications)
+
+Human neck limited the spatial range of vision. 
+
+
+
+### Ambient
+
+Facial Thermal Feedback in Remotely Operated Applications
+
+It is a 
+
+
 
 ### Eye-in-Hand
 
@@ -91,76 +110,6 @@ Vision Oriented by Hands
 ### Bug View
 
 "Being a Spider" 
-
-
-
-## Design Projects
-
-### TP/Screamer
-
-> Pratt)
->
-> Toilet Paper Saver, crowdfunding project
-
-### Air Station
-
-> (Pratt)
-
-Social Smoking Area
-
-### Talking Thing
-
-> (Keio)
-
-Universal Vocal Interaction
-
-### Hahaki
-
-> Undergraudate
-
-Postcard Customization System, be selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, December 2013.
-
-- Led a group to finish the project of a city postcard system named "‘Hahaki", which consists of a smartphone application and a print machine.
-- Designed the prototype of the printer, and the user experience, the interface and the demo of the mobile app.
-
-### AERO Racing Car
-
-> (Undergraudate)
-
-Formula SAE Racing Car AERO-2013, won 8th place out of 46 teams and be selected to exhibition by sponsor.
-
-- Designed the bodywork and aerodynamic kit for the racing car complying with Formula SAE standards.
-- Fabricated the vehicle, to participate in the game of Formula Student China 2013 and the exibition of Auto China 2014.
-
-
-
-## Publications
-
-Lichao Shen, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955
-
-Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
-
-
-
-## Awards
-
-### Best Demo Award
-
-Feb 2018 \| Seoul, ROK
-
-2018 Augmented Human 9th Interational Conference (AH2018)
-
-### Excellent Prize
-
-Jan 2013 \| Zhejiang, China
-
-"Gifts of Fuyang" Design Competition
-
-### Scholarship of Academic Performance
-
-Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
-
-Beihang Unviersity
 
 
 
@@ -192,3 +141,38 @@ Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
 
 Technical Drawing, Mechanical Mechining
 
+
+
+
+
+## Publications
+
+Lichao Shen, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955
+
+Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
+
+
+
+## Awards
+
+### Best Demo Award
+
+2018 Augmented Human 9th Interational Conference (AH2018)
+
+Feb 2018 \| Seoul, ROK
+
+
+
+### Excellent Prize
+
+"Gifts of Fuyang" Design Competition
+
+Jan 2013 \| Zhejiang, China
+
+
+
+### Scholarship of Academic Performance
+
+Beihang Unviersity
+
+Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
