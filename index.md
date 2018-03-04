@@ -77,7 +77,7 @@ Sep 2013 - Feb 2014 \| Beijing, China
 
 *Master Thesis*
 
-Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, espcially the neck was a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspried concept called Limitless Oculus. That was to substitute or modify the original visuomotor coordination of human, with certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The concept aimed to promote the flexibility of the orientation of vision, and hence achieve visual expansion and substitution. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented: one employed an extra robotic neck to increase the spatial range of vision; the other one utilized human own upper limb to control the orientation of vision. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in certain range.
+Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, espcially the neck was a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspried concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a vairety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in certain range.
 
 
 
@@ -85,9 +85,9 @@ Humans are trapped in their visual sense. The human vision was relatively narrow
 
 **Ominidirctional Observation from an Extra Robotic Neck**
 
-[*Conference*](## Publications)
+*Conference Publications*
 
-Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
+Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
 
 
@@ -95,7 +95,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **Facial Thermal Feedback in Remotely Operated Applications**
 
-[*Conference*](## Publications)
+*Conference Publications*
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of Telepresence and Telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of Telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
@@ -103,9 +103,15 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
+The two eyes of human are fixed on the head together facing one same scene. Usually two eyes receives visual stimulus from almost the same source. We
+
+Two image sourece 
 Vision Oriented by Hands
 
-#### New Eyes (RCA)
+Hu
+
+The narrow range of motion of human neck limits the flexibility of spatial orientation of human vision. Compared to the neck, the upper limb is more dexterous body part and frequently used. Thus we utilized human own upper limb to control the orientation of vision, by 
+
 
 ### Bug View
 
@@ -127,11 +133,11 @@ Vision Oriented by Hands
 
 ### Programming
 
-C, C# (Unity), JavaScript, Python, HTML, LaTeX
+C, C# (Unity), JavaScript, Python, Arduino, HTML, LaTeX
 
 ### Design
 
-Graphic / Modeling Software (Photoshop, Illustrator, Rhino, Unity, 3Ds Max, KeyShot, V-Ray)
+Graphic / Modeling Software (Photoshop, Illustrator, Unity, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray)
 
 Pencil Sketch, Marker Sketch, Gouache Drawing, Prototyping
 
@@ -157,7 +163,7 @@ Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi
 
 ### Best Demo Award
 
-2018 Augmented Human 9th Interational Conference (AH2018)
+**2018 Augmented Human 9th Interational Conference (AH '18)**
 
 Feb 2018 \| Seoul, ROK
 
@@ -165,7 +171,7 @@ Feb 2018 \| Seoul, ROK
 
 ### Excellent Prize
 
-"Gifts of Fuyang" Design Competition
+**"Gifts of Fuyang" Design Competition**
 
 Jan 2013 \| Zhejiang, China
 
@@ -173,6 +179,6 @@ Jan 2013 \| Zhejiang, China
 
 ### Scholarship of Academic Performance
 
-Beihang Unviersity
+**Beihang Unviersity**
 
 Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
