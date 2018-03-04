@@ -6,9 +6,7 @@ Homepage: http://red-pencil.github.io/homepage
 
 Email: shen.lichao@hotmail.com, shenlc@kmd.keio.ac.jp
 
-Desgin Portfolio: 
-
-[TOC]
+Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 
 ## Field of Interests
 
@@ -75,9 +73,9 @@ Sep 2013 - Feb 2014 \| Beijing, China
 
 ### Limitless Oculus
 
-**Master Thesis**
+**Visual Expansion by Animal-Inspired Visuomotor Modification**
 
-Visual Expansion by Animal-Inspired Visuomotor Modification
+*Master Thesis*
 
 Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, espcially the neck was a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspried concept called Limitless Oculus. That was to substitute or modify the original visuomotor coordination of human, with certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The concept aimed to promote the flexibility of the orientation of vision, and hence achieve visual expansion and substitution. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented: one employed an extra robotic neck to increase the spatial range of vision; the other one utilized human own upper limb to control the orientation of vision. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in certain range.
 
@@ -85,19 +83,21 @@ Humans are trapped in their visual sense. The human vision was relatively narrow
 
 ### Unconstrained Neck
 
-Ominidirctional Observation from an Extra Robotic Neck
+**Ominidirctional Observation from an Extra Robotic Neck**
 
-[Paper](## Publications)
+[*Conference*](## Publications)
 
-Human neck limited the spatial range of vision. 
+Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
 
 
 ### Ambient
 
-Facial Thermal Feedback in Remotely Operated Applications
+**Facial Thermal Feedback in Remotely Operated Applications**
 
-It is a 
+[*Conference*](## Publications)
+
+Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of Telepresence and Telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of Telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
 
 
