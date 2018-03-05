@@ -130,6 +130,8 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. It will let out voice warning when the sheets every time pulled out reaches the limit (for instance, 30 inches), to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home.
 
+Kickstarter: https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a
+
 
 ### Hahaki
 
