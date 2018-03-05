@@ -18,6 +18,7 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 - Robotics / Telepresence
 - Interaction Design
 - User Experience Design
+- User Interface
 - Industrial Design
 - Media Design
 - Industrial Design
@@ -79,7 +80,7 @@ Sep 2013 - Feb 2014 \| Beijing, China
 
 *Master Thesis*
 
-Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, espcially the neck was a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspried concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a vairety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in certain range.
+Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with the certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
 
 
 
@@ -90,6 +91,8 @@ Humans are trapped in their visual sense. The human vision was relatively narrow
 *Conference Publication*
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
+
+Video: https://www.youtube.com/watch?v=xq5xTcrdzXU
 
 
 
@@ -105,19 +108,16 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
-The two eyes of human are fixed on the head together facing one same scene. Usually two eyes receives visual stimulus from almost the same source. We
+Snail Sight: Observe Dual Scenes Simultaneously
 
-Two image sourece 
-Vision Oriented by Hands
-
-Hu
-
-The narrow range of motion of human neck limits the flexibility of spatial orientation of human vision. Compared to the neck, the upper limb is more dexterous body part and frequently used. Thus we utilized human own upper limb to control the orientation of vision, by 
+In natural condition, human eyes receives almost the same visual stimulus, but that each eye registers different content could lead to new visual exprience. We present a wearable device that provides two seperate visual capature at the position of both hands, i.e., upper limb is utilited to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and changes the visuomotor coordination drastically. We then examine the user's adaptability to this spilted vision and the by-product sickness.
 
 
 ### Bug View
 
-"Being a Spider" 
+"Being a Spider": the Immersive Operation of Spider Robot
+
+Existing telepresence and telexistence research focus on humanoid. Different from those, *Bug View* focus on mapping the human bodily consciousness to nonhuman subject with totolly different body schema, and here it is a spider robot. Its proposal is to provide immersive experience of "being a spider", and smooth operation. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to compare to find out the best way providing the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
 
 
