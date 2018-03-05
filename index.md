@@ -115,9 +115,9 @@ In natural condition, human eyes receives almost the same visual stimulus, but t
 
 ### Bug View
 
-"Being a Spider": the Immersive Operation of Spider Robot
+"Being a Spider": Telexistence to a Spider Robot
 
-Existing telepresence and telexistence research focus on humanoid. Different from those, *Bug View* focus on mapping the human bodily consciousness to nonhuman subject with totolly different body schema, and here it is a spider robot. Its proposal is to provide immersive experience of "being a spider", and smooth operation. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to compare to find out the best way providing the highest degree of presence. At least, the potential application of this kind of technology is discussed.
+Existing telepresence and telexistence research focus on humanoid. Different from those, *Bug View* focus on mapping the human bodily consciousness to nonhuman subject with totolly different body schema, and here it is a spider robot. Its proposal is to provide immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to compare to find out the best way providing the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
 
 
