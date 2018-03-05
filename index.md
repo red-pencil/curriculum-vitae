@@ -19,6 +19,8 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 - Interaction Design
 - User Experience Design
 - Industrial Design
+- Media Design
+- Industrial Design
 - Computer Graphics
 - Wearable Computing
 - Machine Learning
@@ -47,7 +49,7 @@ Sep 2016 - Dec 2016 \| London, UK
 
 Sep 2010 - Jun 2014 \| Beijing, China
 
-Department of Industrial Design, School of Mechanical Engineering
+Industrial Design / Mechanical Engineering
 
 ## Experience
 
@@ -85,7 +87,7 @@ Humans are trapped in their visual sense. The human vision was relatively narrow
 
 **Ominidirctional Observation from an Extra Robotic Neck**
 
-*Conference Publications*
+*Conference Publication*
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
@@ -95,9 +97,9 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **Facial Thermal Feedback in Remotely Operated Applications**
 
-*Conference Publications*
+*Conference Publication*
 
-Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of Telepresence and Telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of Telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
+Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
 
 
