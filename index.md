@@ -8,7 +8,7 @@ Email: shen.lichao@hotmail.com, shenlc@kmd.keio.ac.jp
 
 Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 
-## Field of Interests
+## Fields of Interest
 
 - Human-Computer Interaction
 - Human Augmentation
@@ -64,8 +64,8 @@ Industrial Design / Mechanical Engineering
 
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
-- Develop applications of telepresence and telexistence and research on human-robot interaction.
-- Develop virtual reality and sensory augmentation
+- Conducted research projects in fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
+- Develop experiements, prototypes and applications of realtive filed.
 
 ### User Experience Design Intern
 
@@ -74,7 +74,7 @@ Sep 2015 - Mar 2018 \| Tokyo, Japan
 Sep 2013 - Feb 2014 \| Beijing, China
 
 - Researched into user's behaviour towards variety of consumer electronics.
-- Developed the preliminary design of next generation smart devices.
+- Developed the preliminary design of the next generation smart devices.
 
 
 
@@ -128,22 +128,26 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 ### TP/Screamer
 
-TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. It will let out voice warning when the sheets every time pulled out reaches the limit (for instance, 30 inches), to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home.
+TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out beyond the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home.
+
+- Designed the product individually and fabricated the appearance prototype and function prototype.
+- Finished branding materials including the pictured story and the video, to get prepared for crowdfunding.
 
 Kickstarter: https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a
 
-
 ### Hahaki
 
-Postcard Customization System, be selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, December 2013.
-- Led a group to finish the project of a city postcard system named "‘Hahaki", which consists of a smartphone application and a print machine.
-- Designed the prototype of the printer, and the user experience, the interface and the demo of the mobile app.
+Hahaki is postcard customization system for a modern city. It consists of a smartphone application and a print machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print the post them at the print machines placed near the scenic area. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
-### AERO Racing Car
+- Led a group to finish the project and proposed the concept.
+- Designed the demo, UX and UI of the mobile app, and the printer.
 
-Formula SAE Racing Car AERO-2013, won 8th place out of 46 teams and be selected to exhibition by sponsor.
-- Designed the bodywork and aerodynamic kit for the racing car complying with Formula SAE standards.
-- Fabricated the vehicle, to participate in the game of Formula Student China 2013 and the exibition of Auto China 2014.
+### AERO-2013 Racing Car
+
+AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for Formula SAE series motor competitions. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
+
+- Designed the bodywork and aerodynamic kit with Formula SAE regulation.
+- Participated in manufacturing the vehicle.
 
 ## Languages
 
