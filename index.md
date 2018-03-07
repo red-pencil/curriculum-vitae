@@ -45,7 +45,7 @@ Pencil Sketch, Marker Sketch, Gouache Drawing, Prototyping
 
 Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
 
-Technical Drawing, Mechanical Mechining
+Technical Drawing, Mechanical Machining
 
 
 
@@ -144,7 +144,7 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 **Snail Sight: Observe Dual Scenes Simultaneously**
 
-In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilited to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and changes the visuomotor coordination drastically. We then examine the user's adaptability to this spilt vision and the by-product sickness.
+In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
 
 ### Bug View
@@ -197,7 +197,7 @@ Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi
 
 ### Best Demo Award
 
-**2018 Augmented Human 9th Interational Conference (AH '18)**
+**2018 Augmented Human 9th International Conference (AH '18)**
 
 Feb 2018 \| Seoul, ROK
 
@@ -209,6 +209,6 @@ Jan 2013 \| Zhejiang, China
 
 ### Scholarship of Academic Performance
 
-**Beihang Unviersity**
+**Beihang University**
 
 Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
