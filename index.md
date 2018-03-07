@@ -12,19 +12,18 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 
 - Human-Computer Interaction
 - Human Augmentation
-- Virtual Reality / Augmented Reality
 - Sensory Substitution
-- Cognitive Science / Neuroscience
-- Robotics / Telepresence
-- Interaction Design
-- User Experience Design
-- User Interface
-- Industrial Design
-- Media Design
-- Industrial Design
+- Cognitive Science & Neuroscience
+- Virtual Reality & Augmented Reality
+- Robotics & Telepresence
 - Computer Graphics
 - Wearable Computing
 - Machine Learning
+- Interaction Design
+- User Experience Design
+- User Interface Design
+- Industrial Design
+- Media Design
 
 
 
@@ -36,7 +35,7 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
-Media Design / Human-Computer Interaction
+Human-Computer Interaction, Media Design
 
 **Pratt Institute** (exchange)
 
@@ -52,7 +51,7 @@ Sep 2016 - Dec 2016 \| London, UK
 
 Sep 2010 - Jun 2014 \| Beijing, China
 
-Industrial Design / Mechanical Engineering
+Industrial Design, Mechanical Engineering
 
 
 
@@ -64,8 +63,8 @@ Industrial Design / Mechanical Engineering
 
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
-- Conducted research projects in fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiements, prototypes and applications of realtive filed.
+- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
+- Develop experiements, prototypes and applications of realtive fileds.
 
 ### User Experience Design Intern
 
@@ -86,7 +85,7 @@ Sep 2013 - Feb 2014 \| Beijing, China
 
 *Master Thesis*
 
-Humans are trapped in their visual sense. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, I figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with the certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also create new body mapping. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
+Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
 
 
 ### Unconstrained Neck
@@ -97,7 +96,7 @@ Humans are trapped in their visual sense. The human vision was relatively narrow
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
-Video: https://www.youtube.com/watch?v=xq5xTcrdzXU
+Video: https://youtu.be/xq5xTcrdzXU
 
 
 ### Ambient
@@ -128,25 +127,26 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 ### TP/Screamer
 
-TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out beyond the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home.
+TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out over the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home.
 
-- Designed the product individually and fabricated the appearance prototype and function prototype.
-- Finished branding materials including the pictured story and the video, to get prepared for crowdfunding.
+- Designed the product individually, and fabricated the appearance prototype and function prototype.
+- Finished branding materials including the pictured story and the video, to get prepared for online crowdfunding.
 
 Kickstarter: https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a
+Video: https://youtu.be/UHSKzdS4NOA
 
 ### Hahaki
 
-Hahaki is postcard customization system for a modern city. It consists of a smartphone application and a print machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print the post them at the print machines placed near the scenic area. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
+Hahaki is postcard customization system for modern cities. It consists of a smartphone application and a print vending machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them and then post, at the print machines placed near the scenic area. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
-- Led a group to finish the project and proposed the concept.
-- Designed the demo, UX and UI of the mobile app, and the printer.
+- Led a group to finish the project.
+- Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
 
 ### AERO-2013 Racing Car
 
-AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for Formula SAE series motor competitions. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
+AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
 
-- Designed the bodywork and aerodynamic kit with Formula SAE regulation.
+- Designed the bodywork and aerodynamic kit under the Formula SAE regulations.
 - Participated in manufacturing the vehicle.
 
 ## Languages
