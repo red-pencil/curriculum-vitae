@@ -64,7 +64,7 @@ Industrial Design, Mechanical Engineering
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiements, prototypes and applications of realtive fileds.
+- Develop experiments, prototypes and applications of relative fields.
 
 ### User Experience Design Intern
 
@@ -72,7 +72,7 @@ Sep 2015 - Mar 2018 \| Tokyo, Japan
 
 Sep 2013 - Feb 2014 \| Beijing, China
 
-- Researched into user's behaviour towards variety of consumer electronics.
+- Researched into user's behavior towards a variety of consumer electronics.
 - Developed the preliminary design of the next generation smart devices.
 
 
@@ -90,7 +90,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 ### Unconstrained Neck
 
-**Ominidirctional Observation from an Extra Robotic Neck**
+**Omnidirectional Observation from an Extra Robotic Neck**
 
 *Conference Publication*
 
@@ -112,14 +112,14 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 **Snail Sight: Observe Dual Scenes Simultaneously**
 
-In natural condition, human eyes receives almost the same visual stimulus, but that each eye registers different content could lead to new visual exprience. We present a wearable device that provides two seperate visual capature at the position of both hands, i.e., upper limb is utilited to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and changes the visuomotor coordination drastically. We then examine the user's adaptability to this spilted vision and the by-product sickness.
+In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilited to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and changes the visuomotor coordination drastically. We then examine the user's adaptability to this spilt vision and the by-product sickness.
 
 
 ### Bug View
 
 **"Being a Spider": Telexistence from Human to a Spider Robot**
 
-Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a nonhuman subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
+Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
 
 
@@ -148,6 +148,8 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 
 - Designed the bodywork and aerodynamic kit under the Formula SAE regulations.
 - Participated in manufacturing the vehicle.
+
+
 
 ## Languages
 
