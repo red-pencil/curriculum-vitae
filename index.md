@@ -8,6 +8,8 @@ Email: shen.lichao@hotmail.com, shenlc@kmd.keio.ac.jp
 
 Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 
+
+
 ## Fields of Interest
 
 - Human-Computer Interaction
@@ -24,6 +26,36 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 - User Interface Design
 - Industrial Design
 - Media Design
+
+
+
+## Skills
+
+### Programming
+
+C, C# (Unity), JavaScript, Python, Arduino, HTML, LaTeX
+
+### Design
+
+Graphic / Modeling Software (Photoshop, Illustrator, Unity, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray)
+
+Pencil Sketch, Marker Sketch, Gouache Drawing, Prototyping
+
+### Engineering
+
+Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
+
+Technical Drawing, Mechanical Mechining
+
+
+
+## Languages
+
+**Chinese** - Native
+
+**English** - Academic
+
+**Japanese** - Elementary
 
 
 
@@ -135,12 +167,14 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 Kickstarter: https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a
 Video: https://youtu.be/UHSKzdS4NOA
 
+
 ### Hahaki
 
 Hahaki is postcard customization system for modern cities. It consists of a smartphone application and a print vending machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them and then post, at the print machines placed near the scenic area. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
+
 
 ### AERO-2013 Racing Car
 
@@ -151,39 +185,9 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 
 
 
-## Languages
-
-**Chinese** - Native
-
-**English** - Academic
-
-**Japanese** - Elementary
-
-
-
-## Skills
-
-### Programming
-
-C, C# (Unity), JavaScript, Python, Arduino, HTML, LaTeX
-
-### Design
-
-Graphic / Modeling Software (Photoshop, Illustrator, Unity, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray)
-
-Pencil Sketch, Marker Sketch, Gouache Drawing, Prototyping
-
-### Engineering
-
-Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
-
-Technical Drawing, Mechanical Mechining
-
-
-
 ## Publications
 
-Lichao Shen, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955
+Lichao Shen, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
 
 Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
 
