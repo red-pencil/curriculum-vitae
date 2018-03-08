@@ -1,6 +1,6 @@
 # Lichao **Shen**
 
-## Contact
+
 
 Homepage: http://red-pencil.github.io/homepage
 
@@ -13,19 +13,20 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 ## Fields of Interest
 
 - Human-Computer Interaction
-- Human Augmentation
-- Sensory Substitution
-- Cognitive Science & Neuroscience
 - Virtual Reality & Augmented Reality
-- Robotics & Telepresence
-- Computer Graphics
-- Wearable Computing
+- Robotics
+- Ubiquitous Computing
 - Machine Learning
+
+- Human Augmentation
+- Cognitive Science
+- Neuroscience
+
 - Interaction Design
-- User Experience Design
-- User Interface Design
+- User Experience
+- User Interface
+- New Media
 - Industrial Design
-- Media Design
 
 
 
@@ -37,15 +38,15 @@ C, C# (Unity), JavaScript, Python, Arduino, HTML, LaTeX
 
 ### Design
 
-Graphic / Modeling Software (Photoshop, Illustrator, Unity, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray)
+Pencil Sketch, Marker Sketch, Gouache Painting, Prototyping
 
-Pencil Sketch, Marker Sketch, Gouache Drawing, Prototyping
+Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
 
 ### Engineering
 
-Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
-
 Technical Drawing, Mechanical Machining
+
+Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
 
 
 
@@ -91,10 +92,11 @@ Industrial Design, Mechanical Engineering
 
 ### Student Researcher
 
-**Cyber Living Lab & Embodied Media Research Group**
+**Cyber Living Lab**
 
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
+- [Embodied Media Project](www.embodiedmedia.org)
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
 - Develop experiments, prototypes and applications of relative fields.
 
@@ -104,6 +106,7 @@ Sep 2015 - Mar 2018 \| Tokyo, Japan
 
 Sep 2013 - Feb 2014 \| Beijing, China
 
+- User Research Center
 - Researched into user's behavior towards a variety of consumer electronics.
 - Developed the preliminary design of the next generation smart devices.
 
@@ -165,6 +168,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 - Finished branding materials including a pictured story and a promotional video.
 
 Kickstarter: https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a
+
 Video: https://youtu.be/UHSKzdS4NOA
 
 
@@ -178,7 +182,7 @@ Hahaki is postcard customization system for modern cities. It consists of a smar
 
 ### AERO-2013 Racing Car
 
-AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered, and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
+AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
 
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
