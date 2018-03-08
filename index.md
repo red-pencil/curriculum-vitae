@@ -2,7 +2,7 @@
 
 
 
-Homepage: https://red-pencil.github.io/homepage
+Homepage: http://red-pencil.github.io/homepage
 
 Email: shen.lichao@hotmail.com
 
@@ -98,7 +98,7 @@ Industrial Design, Mechanical Engineering
 
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
-- [Embodied Media Project](https://www.embodiedmedia.org)
+- [Embodied Media Project](http://www.embodiedmedia.org)
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
 - Develop experiments, prototypes and applications of relative fields.
 
