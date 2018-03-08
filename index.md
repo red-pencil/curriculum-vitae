@@ -2,11 +2,11 @@
 
 
 
-Homepage: http://red-pencil.github.io/homepage
+Homepage: red-pencil.github.io/homepage
 
-Email: shen.lichao@hotmail.com, shenlc@kmd.keio.ac.jp
+Email: shen.lichao@hotmail.com
 
-Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
+Desgin Portfolio: issuu.com/lichaoshen/docs/portfolio3.3re
 
 
 
