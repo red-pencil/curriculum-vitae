@@ -14,13 +14,15 @@ Desgin Portfolio: issuu.com/lichaoshen/docs/portfolio3.3re
 
 - Human-Computer Interaction
 - Virtual Reality & Augmented Reality
-- Robotics
+- Computer Graphics
 - Ubiquitous Computing
 - Machine Learning
 
 - Human Augmentation
 - Cognitive Science
 - Neuroscience
+- Robotics
+- Mechanical Engineering
 
 - Interaction Design
 - User Experience
