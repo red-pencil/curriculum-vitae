@@ -2,29 +2,30 @@
 
 
 
-Homepage: http://red-pencil.github.io/homepage
+Homepage: [http://red-pencil.github.io/homepage](red-pencil.github.io/homepage)
 
 Email: shen.lichao@hotmail.com
 
-Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
+Desgin Portfolio: [https://issuu.com/lichaoshen/docs/portfolio3.3re](issuu.com/lichaoshen)
 
+Project Video: [https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg](youtube.com/mars)
 
+Gallery: [https://500px.com/hx470000/galleries/top](500px.com/hx470000)
 
 ## Fields of Interest
 
-- Human-Computer Interaction
+- **Human-Computer Interaction**
 - Virtual Reality & Augmented Reality
 - Computer Graphics
 - Ubiquitous Computing
 - Machine Learning
 
-- Human Augmentation
+- **Human Augmentation**
 - Cognitive Science
 - Neuroscience
-- Robotics
-- Mechanical Engineering
+- Robotics & Mechanical Engineering
 
-- Interaction Design
+- **Interaction Design**
 - User Experience
 - User Interface
 - New Media
@@ -36,19 +37,19 @@ Desgin Portfolio: https://issuu.com/lichaoshen/docs/portfolio3.3re
 
 ### Programming
 
-C, C# (Unity), JavaScript, Python, Arduino, HTML, LaTeX
+C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
+
+### Engineering
+
+Technical Drawing, Mechanical Machining
+
+Engineering Software (SolidWorks, Pro/gineer, AutoCAD)
 
 ### Design
 
 Pencil Sketch, Marker Sketch, Gouache Painting, Prototyping
 
 Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
-
-### Engineering
-
-Technical Drawing, Mechanical Machining
-
-Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
 
 
 
@@ -66,25 +67,25 @@ Engineering Software (SolidWorks, Auto CAD, Pro/Engineering)
 
 ### Master of Media Design
 
-**Keio University**
+**Keio University** \| Tokyo, Japan
 
-Sep 2015 - Mar 2018 \| Tokyo, Japan
+Sep 2015 - Mar 2018
 
 Human-Computer Interaction, Media Design
 
-**Pratt Institute** (exchange)
+**Pratt Institute** (exchange) \| New York, USA
 
-Jan 2017 - May 2017 \| New York, USA
+Jan 2017 - May 2017
 
-**Royal College of Art & Imperial College London** (exchange)
+**Royal College of Art & Imperial College London** (exchange) \| London, UK
 
-Sep 2016 - Dec 2016 \| London, UK
+Sep 2016 - Dec 2016
 
 ### Bachelor of Engineering
 
-**Beihang University**
+**Beihang University** \| Beijing, China
 
-Sep 2010 - Jun 2014 \| Beijing, China
+Sep 2010 - Jun 2014
 
 Industrial Design, Mechanical Engineering
 
@@ -94,9 +95,9 @@ Industrial Design, Mechanical Engineering
 
 ### Student Researcher
 
-**Cyber Living Lab**
+**Cyber Living Lab** \| Tokyo, Japan
 
-Sep 2015 - Mar 2018 \| Tokyo, Japan
+Sep 2015 - Mar 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
@@ -104,9 +105,9 @@ Sep 2015 - Mar 2018 \| Tokyo, Japan
 
 ### User Experience Design Intern
 
-**Lenovo Research**
+**Lenovo Research** \| Beijing, China
 
-Sep 2013 - Feb 2014 \| Beijing, China
+Sep 2013 - Feb 2014
 
 - User Research Center
 - Researched into user's behavior towards a variety of consumer electronics.
@@ -133,7 +134,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
-Video: https://youtu.be/xq5xTcrdzXU
+[Video](https://youtu.be/xq5xTcrdzXU)
 
 
 ### Ambient
@@ -147,14 +148,14 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
-**Snail Sight: Observe Dual Scenes Simultaneously**
+**"Snail Sight", Autonomous Monocular Vision, Observe Dual Scenes Simultaneously**
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
 
 ### Bug View
 
-**"Being a Spider": Telexistence from Human to a Spider Robot**
+**"Being a Spider", Telexistence from Human to a Spider Robot**
 
 Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
@@ -169,9 +170,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 - Designed the product individually, and fabricated an appearance prototype and a functional prototype.
 - Finished branding materials including a pictured story and a promotional video.
 
-Kickstarter: https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a
-
-Video: https://youtu.be/UHSKzdS4NOA
+[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a), [Video](https://youtu.be/UHSKzdS4NOA)
 
 
 ### Hahaki
@@ -193,9 +192,9 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 
 ## Publications
 
-Lichao Shen, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
+**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
 
-Mhd Yamen Saraiji, Roshan Peiris, Lichao Shen, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
+Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
 
 
 
