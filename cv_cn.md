@@ -1,61 +1,65 @@
 # 沈力超
 
-[cv_cn.md](Chinese)
+[English Version](index.md)
+
+
 
 个人主页: [http://red-pencil.github.io/homepage](red-pencil.github.io/homepage)
 
 电子邮箱: shen.lichao@hotmail.com
 
-设计作品集: [https://issuu.com/lichaoshen/docs/portfolio3.3re](issuu.com/lichaoshen)
+设计作品: [https://issuu.com/lichaoshen/docs/portfolio3.3re](issuu.com/lichaoshen)
 
 项目视频: [https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg](youtube.com/mars)
 
 摄影作品: [https://500px.com/hx470000/galleries/top](500px.com/hx470000)
 
-## Fields of Interest
+## 专业领域
 
 - **人机交互**
 - 虚拟现实 & 混合现实
 - 计算机图形学
 - 可穿戴设备 & 普适计算
 - 机器学习
+
 - **人类增强**
 - 认知科学
 - 神经科学
 - 机器人学 & 机械工程
+
 - **交互设计**
 - 用户体验
 - 用户界面
 - 新媒体
 - 工业设计
 
-## Skills
+## 技术能力
 
-### Programming
+### 编程
 
 C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
 
-### Engineering
+### 工程
 
-Technical Drawing, Mechanical Machining
+工程制图, 机械加工
 
-Engineering Software (SolidWorks, Pro/Engineer, AutoCAD)
+工程软件 (SolidWorks, Pro/Engineer, AutoCAD)
 
-### Design
+### 设计
 
-Pencil Sketch, Marker Sketch, Gouache Painting, Prototyping
+铅笔素描, 马克笔素描, 原型制作
 
-Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
+图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
 
 
 
 ## Languages
 
-**Chinese** - Native
+**中文** - 母语
 
-**English** - Academic
+**英语** - 学术
 
-**Japanese** - Elementary
+**日本** - 初级
 
 
 
@@ -67,15 +71,16 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 Sep 2015 - Mar 2018
 
-Human-Computer Interaction, Media Design
+人机交换，媒体设计
 
 **普拉提学院** | 美国纽约
 
-Jan 2017 - May 2017
+Jan 2017 - May 2017 (交换)
 
 **皇家艺术学院 & 帝国理工学院** | 英国伦敦
 
-Sep 2016 - Dec 2016
+Sep 2016 - Dec 2016  (交换)
+
 
 ### 工学士
 
@@ -101,19 +106,19 @@ Sep 2015 - Mar 2018
 
 ### 用户研究实习
 
-**联想研究所** \| 中国北京
+**联想研究院** \| 中国北京
 
 Sep 2013 - Feb 2014
 
-- User Research Center
+- 用户研究中心
 - Researched into user's behavior towards a variety of consumer electronics.
 - Developed the preliminary design of the next generation smart devices.
 
-## Research Projects
+## 研究项目
 
 ### Limitless Oculus
 
-**Visual Expansion by Animal-Inspired Visuomotor Modification**
+**基于仿生修改视觉运动协调实现的视觉扩张**
 
 *硕士学位论文*
 
@@ -121,7 +126,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 ### Unconstrained Neck
 
-**Omnidirectional Observation from an Extra Robotic Neck**
+**全向观察的附加机械颈部**
 
 *会议论文*
 
@@ -131,7 +136,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 ### Ambient
 
-**Facial Thermal Feedback in Remotely Operated Applications**
+**远程操作应用中的面部温度反馈**
 
 *会议论文*
 
@@ -139,19 +144,19 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
-**"Snail Sight", Autonomous Monocular Vision, Observe Dual Scenes Simultaneously**
+**“蜗牛眼”仿生，自主单目视觉，同时观察双重场景**
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
 ### Bug View
 
-**"Being a Spider", Telexistence from Human to a Spider Robot**
+**"变形记", 从人体到蜘蛛机器人的远程存在**
 
 Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
 
 
-## Design Projects
+## 设计项目
 
 ### TP/Screamer
 
@@ -176,7 +181,7 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
 
-## Publications
+## 出版物
 
 **Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
 
@@ -186,19 +191,19 @@ Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu T
 
 ## Awards
 
-### Best Demo Award
+### 最佳原型展示
 
 **2018 Augmented Human 9th International Conference (AH '18)**
 
 Feb 2018 \| Seoul, ROK
 
-### Excellent Prize
+### 优秀奖
 
 **"Gifts of Fuyang" Design Competition**
 
 Jan 2013 \| Zhejiang, China
 
-### Scholarship of Academic Performance
+### 学习优秀奖学金
 
 **Beihang University**
 
