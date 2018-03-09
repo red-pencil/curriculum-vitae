@@ -43,7 +43,7 @@ C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
 
 Technical Drawing, Mechanical Machining
 
-Engineering Software (SolidWorks, Pro/gineer, AutoCAD)
+Engineering Software (SolidWorks, Pro/Engineer, AutoCAD)
 
 ### Design
 
