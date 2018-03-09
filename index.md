@@ -4,15 +4,15 @@
 English Version | [中文版](cv_cn.md)
 
 
-Homepage: [http://red-pencil.github.io/homepage](red-pencil.github.io/homepage)
+Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
 Email: shen.lichao@hotmail.com
 
-Desgin Portfolio: [https://issuu.com/lichaoshen/docs/portfolio3.3re](issuu.com/lichaoshen)
+Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
-Project Video: [https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg](youtube.com/mars)
+Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
 
-Gallery: [https://500px.com/hx470000/galleries/top](500px.com/hx470000)
+Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 
 ## Fields of Interest
 
