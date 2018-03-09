@@ -1,6 +1,8 @@
 # Lichao **Shen**
 
 
+[中文版](cv_cn.md)
+***
 
 Homepage: [http://red-pencil.github.io/homepage](red-pencil.github.io/homepage)
 
