@@ -182,7 +182,7 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 
 ## 出版物
 
-**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
+**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **最佳原型演示奖**
 
 Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
 
@@ -190,20 +190,20 @@ Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu T
 
 ## 荣誉
 
-### 最佳原型展示
+### 最佳原型演示奖
 
-**2018 Augmented Human 9th International Conference (AH '18)**
+**2018 Augmented Human 国际会议 (AH '18)**
 
-Feb 2018 \| Seoul, ROK
+Feb 2018 \| 韩国首尔
 
 ### 设计类优秀奖
 
-**"Gifts of Fuyang" Design Competition**
+**富阳礼物设计大赛**
 
-Jan 2013 \| Zhejiang, China
+Jan 2013 \| 中国浙江
 
 ### 学习优秀奖学金
 
-**Beihang University**
+**北京航空航天大学**
 
-Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
+Dec 2013, Dec 2012, Dec 2011 \| 中国北京
