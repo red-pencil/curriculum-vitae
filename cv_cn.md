@@ -66,30 +66,22 @@ C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
 
 ### 硕士（媒体设计学）
 
-**庆应义塾大学** \| 日本东京
-
-Sep 2015 - Mar 2018
+**庆应义塾大学** \| 日本东京 \| Sep 2015 - Mar 2018
 
 人机交换，媒体设计
 
 
 
-**普拉提学院** \| 美国纽约
-
-Jan 2017 - May 2017 (交换)
+**普拉提学院** \| 美国纽约 \| Jan 2017 - May 2017 (交换)
 
 
 
-**皇家艺术学院 & 帝国理工学院** \| 英国伦敦
-
-Sep 2016 - Dec 2016  (交换)
+**皇家艺术学院 & 帝国理工学院** \| 英国伦敦 \| Sep 2016 - Dec 2016  (交换)
 
 
 ### 工学士
 
-**北京航空航天大学** \| 中国北京
-
-Sep 2010 - Jun 2014
+**北京航空航天大学** \| 中国北京 \| Sep 2010 - Jun 2014
 
 工业设计，机械工程
 
@@ -99,9 +91,7 @@ Sep 2010 - Jun 2014
 
 ### 学生研究员
 
-**Cyber Living Lab 实验室** \| 日本东京
-
-Sep 2015 - Mar 2018
+**Cyber Living Lab 实验室** \| 日本东京 \| Sep 2015 - Mar 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
@@ -109,9 +99,7 @@ Sep 2015 - Mar 2018
 
 ### 用户研究实习
 
-**联想研究院** \| 中国北京
-
-Sep 2013 - Feb 2014
+**联想研究院** \| 中国北京 \| Sep 2013 - Feb 2014
 
 - 用户研究中心
 - Researched into user's behavior towards a variety of consumer electronics.
