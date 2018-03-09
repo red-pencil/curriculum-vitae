@@ -75,13 +75,19 @@ Sep 2015 - Mar 2018
 
 Human-Computer Interaction, Media Design
 
+
+
 **Pratt Institute** (exchange) \| New York, USA
 
 Jan 2017 - May 2017
 
+
+
 **Royal College of Art & Imperial College London** (exchange) \| London, UK
 
 Sep 2016 - Dec 2016
+
+
 
 ### Bachelor of Engineering
 
