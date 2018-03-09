@@ -3,15 +3,15 @@
 [English Version](index.md) | [中文版](cv_cn.md) | [日本語]()
 
 
-Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
+个人主页: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
-Email: shen.lichao@hotmail.com
+电子邮箱: shen.lichao@hotmail.com
 
-Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
+设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
-Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
+项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
 
-Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
+摄影作品: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 
 ## 专业领域
 
