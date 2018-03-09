@@ -1,18 +1,17 @@
 # 沈力超
 
-[English Version](index.md)
+[English Version](index.md) | [中文版](cv_cn.md)
 
 
+Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
-个人主页: [http://red-pencil.github.io/homepage](red-pencil.github.io/homepage)
+Email: shen.lichao@hotmail.com
 
-电子邮箱: shen.lichao@hotmail.com
+Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
-设计作品: [https://issuu.com/lichaoshen/docs/portfolio3.3re](issuu.com/lichaoshen)
+Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
 
-项目视频: [https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg](youtube.com/mars)
-
-摄影作品: [https://500px.com/hx470000/galleries/top](500px.com/hx470000)
+Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 
 ## 专业领域
 
