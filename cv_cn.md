@@ -1,6 +1,6 @@
 # 沈力超
 
-[English Version](index.md) | [中文版](cv_cn.md)
+[English Version](index.md) | [中文版](cv_cn.md) | [日本語]()
 
 
 Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
@@ -72,11 +72,11 @@ Sep 2015 - Mar 2018
 
 人机交换，媒体设计
 
-**普拉提学院** | 美国纽约
+**普拉提学院** \| 美国纽约
 
 Jan 2017 - May 2017 (交换)
 
-**皇家艺术学院 & 帝国理工学院** | 英国伦敦
+**皇家艺术学院 & 帝国理工学院** \| 英国伦敦
 
 Sep 2016 - Dec 2016  (交换)
 
@@ -131,7 +131,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
-[Video](https://youtu.be/xq5xTcrdzXU)
+[视频](https://youtu.be/xq5xTcrdzXU)
 
 ### Ambient
 
@@ -164,7 +164,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 - Designed the product individually, and fabricated an appearance prototype and a functional prototype.
 - Finished branding materials including a pictured story and a promotional video.
 
-[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a), [Video](https://youtu.be/UHSKzdS4NOA)
+[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a), [视频](https://youtu.be/UHSKzdS4NOA)
 
 ### Hahaki
 
@@ -188,7 +188,7 @@ Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu T
 
 
 
-## Awards
+## 荣誉
 
 ### 最佳原型展示
 
@@ -196,7 +196,7 @@ Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu T
 
 Feb 2018 \| Seoul, ROK
 
-### 优秀奖
+### 设计类优秀奖
 
 **"Gifts of Fuyang" Design Competition**
 
