@@ -66,7 +66,7 @@ C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
 
 ### 硕士（媒体设计学）
 
-**庆应义塾大学** \| 日本东京
+**庆应义塾大学**(慶應義塾大学) \| 日本东京
 
 Sep 2015 - Mar 2018
 
@@ -74,12 +74,12 @@ Sep 2015 - Mar 2018
 - 媒体设计
 
 
-**普拉提学院** \| 美国纽约
+**普瑞特艺术学院**(Pratt Institute) \| 美国纽约
 
 Jan 2017 - May 2017
 
 
-**皇家艺术学院 & 帝国理工学院** \| 英国伦敦
+**皇家艺术学院 & 伦敦帝国学院** (Royal College of Art & Imperial College London) \| 英国伦敦
 
 Sep 2016 - Dec 2016
 
