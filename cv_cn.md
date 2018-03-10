@@ -1,6 +1,6 @@
 # 沈力超
 
-[English Version](index.md) | [中文版](cv_cn.md) | [日本語]()
+[English](index.md) | [中文](cv_cn.md) | [日本語]()
 
 
 个人主页: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
@@ -29,7 +29,7 @@
 - **交互设计**
 - 用户体验
 - 用户界面
-- 新媒体
+- 新媒体设计
 - 工业设计
 
 ## 技术能力
@@ -66,21 +66,23 @@ C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
 
 ### 硕士（媒体设计学）
 
-**庆应义塾大学** \| 日本东京 \| Sep 2015 - Mar 2018
+**庆应义塾大学** \| 日本东京
 
-人机交换，媒体设计
-</br>
+Sep 2015 - Mar 2018
+
+- 人机交互
+- 媒体设计
 
 
 **普拉提学院** \| 美国纽约
 
-Jan 2017 - May 2017 (交换)
-</br>
+Jan 2017 - May 2017
+
 
 **皇家艺术学院 & 帝国理工学院** \| 英国伦敦
 
-Sep 2016 - Dec 2016  (交换)
-</br>
+Sep 2016 - Dec 2016
+
 
 ### 工学士
 
@@ -88,11 +90,11 @@ Sep 2016 - Dec 2016  (交换)
 
 Sep 2010 - Jun 2014
 
-工业设计，机械工程
-</br>
+- 工业设计
+- 机械工程
 
 
-## Experience
+## 经历
 
 ### 学生研究员
 
@@ -102,13 +104,46 @@ Sep 2010 - Jun 2014
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
 - Develop experiments, prototypes and applications of relative fields.
 
-### 用户研究实习
+### 用户体验实习
 
 **联想研究院** \| 中国北京 \| Sep 2013 - Feb 2014
 
 - 用户研究中心
 - Researched into user's behavior towards a variety of consumer electronics.
 - Developed the preliminary design of the next generation smart devices.
+
+
+## 出版物
+
+**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **最佳原型演示奖**
+
+Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
+
+
+
+## 荣誉
+
+### 最佳原型演示奖
+
+**2018 Augmented Human 国际会议 (AH '18)**
+
+Feb 2018 \| 韩国首尔
+
+### 设计类优秀奖
+
+**富阳礼物设计大赛**
+
+Jan 2013 \| 中国浙江
+
+### 学习优秀奖学金
+
+**北京航空航天大学**
+
+Dec 2013, Dec 2012, Dec 2011 \| 中国北京
+
+
+
+***
 
 ## 研究项目
 
@@ -140,7 +175,7 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
-**“蜗牛眼”仿生，自主单目视觉，同时观察双重场景**
+**蜗牛仿生眼，自主单目视觉，同时观察双重场景**
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
@@ -151,6 +186,7 @@ In natural condition, human eyes receive almost the same visual stimulus, but th
 Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
 
+***
 
 ## 设计项目
 
@@ -177,30 +213,3 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
 
-## 出版物
-
-**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **最佳原型演示奖**
-
-Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
-
-
-
-## 荣誉
-
-### 最佳原型演示奖
-
-**2018 Augmented Human 国际会议 (AH '18)**
-
-Feb 2018 \| 韩国首尔
-
-### 设计类优秀奖
-
-**富阳礼物设计大赛**
-
-Jan 2013 \| 中国浙江
-
-### 学习优秀奖学金
-
-**北京航空航天大学**
-
-Dec 2013, Dec 2012, Dec 2011 \| 中国北京
