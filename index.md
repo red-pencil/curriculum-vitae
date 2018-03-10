@@ -141,7 +141,7 @@ Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu T
 
 Feb 2018 \| Seoul, ROK
 
-### Excellent Prize
+### Design Excellent Prize
 
 **"Gifts of Fuyang" Design Competition**
 
