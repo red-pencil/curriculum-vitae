@@ -127,7 +127,7 @@ Sep 2013 - Feb 2014
 
 ## Publications
 
-**Lichao Shen**, Mhd Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. [DOI](https://doi.org/10.1145/3174910.3174955) [Best Demo Award](http://www.sigah.org/AH2018/gallery)
+**Lichao Shen**, Mhd Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. [[DOI](https://doi.org/10.1145/3174910.3174955)] [[Best Demo Award](http://www.sigah.org/AH2018/gallery)]
 
 Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI '18](https://chi2018.acm.org)). ACM, New York, NY, USA.
 
@@ -176,7 +176,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
-[Video](https://youtu.be/xq5xTcrdzXU)
+[[Video]](https://youtu.be/xq5xTcrdzXU)
 
 
 ### Ambient
@@ -214,7 +214,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 - Designed the product individually, and fabricated an appearance prototype and a functional prototype.
 - Finished branding materials including a pictured story and a promotional video.
 
-[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a), [Video](https://youtu.be/UHSKzdS4NOA)
+[[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)], [Video]](https://youtu.be/UHSKzdS4NOA)]
 
 
 ### Hahaki
