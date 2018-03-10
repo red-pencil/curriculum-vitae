@@ -24,7 +24,7 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 - Ubiquitous Computing
 - Machine Learning
 
-- **Human Augmentation**
+- **Human Enhancement**
 - Cognitive Science
 - Neuroscience
 - Robotics & Mechanical Engineering
