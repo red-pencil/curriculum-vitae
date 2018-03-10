@@ -19,7 +19,7 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 ## Fields of Interest
 
 - **Human-Computer Interaction**
-- Virtual Reality & Augmented Reality
+- Virtual Reality & Mixed Reality
 - Computer Graphics
 - Ubiquitous Computing
 - Machine Learning
