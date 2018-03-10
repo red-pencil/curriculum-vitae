@@ -73,7 +73,8 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 Sep 2015 - Mar 2018
 
-Human-Computer Interaction, Media Design
+- Human-Computer Interaction
+- Media Design
 
 
 
@@ -95,7 +96,8 @@ Sep 2016 - Dec 2016
 
 Sep 2010 - Jun 2014
 
-Industrial Design, Mechanical Engineering
+- Industrial Design
+- Mechanical Engineering
 
 
 
@@ -217,7 +219,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 
 ### Hahaki
 
-Hahaki is postcard customization system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
+Hahaki is postcard customizable system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
@@ -229,10 +231,5 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
-
-
-
-
-
 
 
