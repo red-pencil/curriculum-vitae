@@ -214,7 +214,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 - Designed the product individually, and fabricated an appearance prototype and a functional prototype.
 - Finished branding materials including a pictured story and a promotional video.
 
-[[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)], [Video]](https://youtu.be/UHSKzdS4NOA)]
+[[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)], [[Video](https://youtu.be/UHSKzdS4NOA)]
 
 
 ### Hahaki
