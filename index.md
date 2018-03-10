@@ -75,6 +75,7 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 Sep 2015 - Mar 2018
 
+- (English Courses)
 - Human-Computer Interaction
 - Media Design
 
