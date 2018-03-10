@@ -78,15 +78,15 @@ Sep 2015 - Mar 2018
 
 
 
-**Pratt Institute** (exchange) \| New York, USA
+**Pratt Institute** (exchange)
 
-Jan 2017 - May 2017
+Jan 2017 - May 2017 \| New York, USA
 
 
 
-**Royal College of Art & Imperial College London** (exchange) \| London, UK
+**Royal College of Art & Imperial College London** (exchange)
 
-Sep 2016 - Dec 2016
+Sep 2016 - Dec 2016 \| London, UK
 
 
 
