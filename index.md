@@ -75,13 +75,13 @@ Sep 2015 - Mar 2018
 
 Human-Computer Interaction, Media Design
 
-##### .
+
 
 **Pratt Institute** (exchange) \| New York, USA
 
 Jan 2017 - May 2017
 
-##### .
+
 
 **Royal College of Art & Imperial College London** (exchange) \| London, UK
 
@@ -122,6 +122,38 @@ Sep 2013 - Feb 2014
 - Developed the preliminary design of the next generation smart devices.
 
 
+
+## Publications
+
+**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
+
+Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
+
+
+
+## Awards
+
+### Best Demo Award
+
+**2018 Augmented Human 9th International Conference (AH '18)**
+
+Feb 2018 \| Seoul, ROK
+
+### Excellent Prize
+
+**"Gifts of Fuyang" Design Competition**
+
+Jan 2013 \| Zhejiang, China
+
+### Scholarship of Academic Performance
+
+**Beihang University**
+
+Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
+
+
+
+***
 
 ## Research Projects
 
@@ -169,6 +201,8 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 
 
+***
+
 ## Design Projects
 
 ### TP/Screamer
@@ -198,30 +232,7 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 
 
 
-## Publications
-
-**Lichao Shen**, Mhd Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In Proceedings of the 9th Augmented Human International Conference (AH '18). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955  **Best Demo Award**
-
-Mhd Yamen Saraiji, Roshan Peiris, **Lichao Shen**, Kouta Minamizawa and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI '18). ACM, New York, NY, USA.
 
 
 
-## Awards
 
-### Best Demo Award
-
-**2018 Augmented Human 9th International Conference (AH '18)**
-
-Feb 2018 \| Seoul, ROK
-
-### Excellent Prize
-
-**"Gifts of Fuyang" Design Competition**
-
-Jan 2013 \| Zhejiang, China
-
-### Scholarship of Academic Performance
-
-**Beihang University**
-
-Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
