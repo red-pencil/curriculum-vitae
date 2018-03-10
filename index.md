@@ -1,7 +1,7 @@
 # Lichao **Shen**
 
 
-English Version | [中文版](cv_cn.md)
+English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 
 Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
@@ -13,6 +13,8 @@ Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portf
 Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
 
 Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
+
+
 
 ## Fields of Interest
 
