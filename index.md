@@ -19,15 +19,16 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 ## Fields of Interest
 
 - **Human-Computer Interaction**
-- Virtual Reality & Mixed Reality
-- Computer Graphics
+- Virtual Reality
+- Mixed Reality
 - Ubiquitous Computing
 - Machine Learning
 
 - **Human Enhancement**
 - Cognitive Science
 - Neuroscience
-- Robotics & Mechanical Engineering
+- Robotics
+- Mechanical Engineering
 
 - **Interaction Design**
 - User Experience
@@ -70,12 +71,12 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 ## Education
 
 ### Master of Media Design
+(English Courses)
 
 **Keio University** \| Tokyo, Japan
 
 Sep 2015 - Mar 2018
 
-- (English Courses)
 - Human-Computer Interaction
 - Media Design
 
@@ -163,6 +164,8 @@ Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 *Master Thesis*
 
 Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
+
+Supervisor: Kouta Minamizawa, Sub-supervisor: Kai Kunze, Co-viewer: Ishido Nanako
 
 
 ### Unconstrained Neck
