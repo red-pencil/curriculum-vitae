@@ -6,7 +6,7 @@ English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
-Email: shen.lichao@hotmail.com
+Email: [lichao.shen@hotmail.com](lichao.shen@hotmail.com)
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
@@ -38,6 +38,59 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 
 
 
+## Education
+
+### Master of Media Design
+(English Courses)
+- Human-Computer Interaction
+- Media Design
+
+**Keio University** \| Tokyo, Japan
+
+Sep 2015 - Mar 2018
+
+**Pratt Institute** \| New York, USA
+
+Jan 2017 - May 2017
+
+**Royal College of Art & Imperial College London** \| London, UK
+
+Sep 2016 - Dec 2016
+
+### Bachelor of Engineering
+
+- Industrial Design
+- Mechanical Engineering
+
+**Beihang University** \| Beijing, China
+
+Sep 2010 - Jun 2014
+
+
+## Experience
+
+### Student Researcher
+
+**Cyber Living Lab** \| Tokyo, Japan
+
+Sep 2015 - Mar 2018
+
+- [Embodied Media Project](http://www.embodiedmedia.org)
+- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
+- Develop experiments, prototypes and applications of relative fields.
+
+### User Experience Design Intern
+
+**Lenovo Research** \| Beijing, China
+
+Sep 2013 - Feb 2014
+
+- User Research Center
+- Researched into user's behavior towards a variety of consumer electronics.
+- Developed the preliminary design of the next generation smart devices.
+
+
+
 ## Skills
 
 ### Programming
@@ -65,61 +118,6 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 **English** - Academic
 
 **Japanese** - Elementary
-
-
-
-## Education
-
-### Master of Media Design
-(English Courses)
-
-**Keio University** \| Tokyo, Japan
-
-Sep 2015 - Mar 2018
-
-- Human-Computer Interaction
-- Media Design
-
-**Pratt Institute** \| New York, USA
-
-Jan 2017 - May 2017
-
-**Royal College of Art & Imperial College London** \| London, UK
-
-Sep 2016 - Dec 2016
-
-### Bachelor of Engineering
-
-**Beihang University** \| Beijing, China
-
-Sep 2010 - Jun 2014
-
-- Industrial Design
-- Mechanical Engineering
-
-
-
-## Experience
-
-### Student Researcher
-
-**Cyber Living Lab** \| Tokyo, Japan
-
-Sep 2015 - Mar 2018
-
-- [Embodied Media Project](http://www.embodiedmedia.org)
-- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiments, prototypes and applications of relative fields.
-
-### User Experience Design Intern
-
-**Lenovo Research** \| Beijing, China
-
-Sep 2013 - Feb 2014
-
-- User Research Center
-- Researched into user's behavior towards a variety of consumer electronics.
-- Developed the preliminary design of the next generation smart devices.
 
 
 
