@@ -41,7 +41,7 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 ## Education
 
 ### Master of Media Design
-(English Courses)
+
 - Human-Computer Interaction
 - Media Design
 
