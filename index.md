@@ -21,6 +21,7 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 - **Human-Computer Interaction**
 - Virtual Reality
 - Mixed Reality
+- Commputer Graphics
 - Ubiquitous Computing
 - Machine Learning
 
@@ -28,7 +29,6 @@ Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 - Cognitive Science
 - Neuroscience
 - Robotics
-- Mechanical Engineering
 
 - **Interaction Design**
 - User Experience
