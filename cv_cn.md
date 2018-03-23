@@ -1,6 +1,6 @@
 # 沈力超
 
-[English](index.md) | [中文](cv_cn.md) | [日本語]()
+[English](index.md) | [中文](cv_cn.md) | [日本語](cv_jp.md)
 
 
 个人主页: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
