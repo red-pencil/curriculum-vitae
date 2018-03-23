@@ -16,12 +16,12 @@ English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 
 
-## Fields of Interest
+## 分野
 
 - **ヒューマン・コンピュータ・インタラクション**
 - 仮想現実 & 複合現実
-- Ubiquitous Computing
-- 機械学習
+- コンピューターグラフィックス
+- ウエアラブル
 
 - **人間拡張**
 - 認知科学
@@ -31,15 +31,15 @@ English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 - **Interaction Design**
 - ユーザーエクスペリエンス
-- ユーザインタフェース
+- ユーザ-インタフェース
 - メディアデザイン
 - インダストリアルデザイン
 
 
 
-## Skills
+## 技術
 
-### Programming
+### プログラミング
 
 C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
 
@@ -57,13 +57,13 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 
 
-## Languages
+## 言語
 
-**Chinese** - Native
+**中国語** - 母語
 
-**English** - Academic
+**英語** - 商業・学術
 
-**Japanese** - Elementary
+**日本語** - 初級
 
 
 
@@ -71,7 +71,7 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 ### 修士（メディアデザイン学）
 
-**慶應義塾大学** \| 日本横浜
+**慶應義塾大学** \| 日本横浜・東京
 
 Sep 2015 - Mar 2018
 
@@ -153,7 +153,7 @@ Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 
 ***
 
-## Research Projects
+## 研究プロジェクト
 
 ### Limitless Oculus
 
@@ -163,12 +163,13 @@ Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 
 Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
 
+指導：南澤孝太　副指導：Kai Kunze　第二副指導：石戸奈々子
 
 ### Unconstrained Neck
 
 **Omnidirectional Observation from an Extra Robotic Neck**
 
-*Conference Publication*
+*学会DEMO*
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
@@ -179,7 +180,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **Facial Thermal Feedback in Remotely Operated Applications**
 
-*Conference Publication*
+*学会DEMO*
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
@@ -201,7 +202,7 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 ***
 
-## Design Projects
+## デザンープロジェクト
 
 ### TP/Screamer
 
