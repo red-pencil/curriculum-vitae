@@ -6,7 +6,7 @@ English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 ホームページ: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
-メール: shen.lichao@hotmail.com
+メール: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
 デザインポートフォリオ: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 

@@ -5,7 +5,7 @@
 
 个人主页: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
-电子邮箱: shen.lichao@hotmail.com
+电子邮箱: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
 设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
@@ -184,7 +184,6 @@ In natural condition, human eyes receive almost the same visual stimulus, but th
 **"变形记", 从人体到蜘蛛机器人的远程存在**
 
 Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
-
 
 ***
 
