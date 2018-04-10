@@ -16,12 +16,13 @@ English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 
 
-## 分野
+## 興味分野
 
-- **ヒューマン・コンピュータ・インタラクション**
+- **ヒューマン・コンピュータ・インタラクション(HCI)**
 - 仮想現実 & 複合現実
-- コンピューターグラフィックス
+- コンピューターグラフィックス(CG)
 - ウエアラブル
+- 機械学習
 
 - **人間拡張**
 - 認知科学
@@ -29,31 +30,31 @@ English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 - ロボット工学
 - 機械工学
 
-- **Interaction Design**
-- ユーザーエクスペリエンス
-- ユーザ-インタフェース
+- **インタラクションデザイン**
+- ユーザーエクスペリエンス(UX)
+- ユーザ-インタフェース(UI)
 - メディアデザイン
 - インダストリアルデザイン
 
 
 
-## 技術
+## 技能
 
 ### プログラミング
 
-C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
+C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
 
-### 工学
+### エンジニアリング
 
-Technical Drawing, Mechanical Machining
+製図, 機械加工
 
-Engineering Software (SolidWorks, Pro/Engineer, AutoCAD)
+(SolidWorks, Pro/Engineer, AutoCAD)
 
 ### デザイン
 
-Pencil Sketch, Marker Sketch, Gouache Painting, Prototyping
+スケッチ（鉛筆、マーカー）, 原型制作
 
-Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
+(Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
 
 
 
@@ -97,27 +98,27 @@ Sep 2010 - Jun 2014
 
 
 
-## Experience
+## 経験
 
-### Student Researcher
+### 学生研究員
 
-**Cyber Living Lab** \| Tokyo, Japan
+**Cyber Living Lab 研究室** \| 日本東京
 
 Sep 2015 - Mar 2018
 
 - [身体性メディアプロジェクト](http://www.embodiedmedia.org)
-- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiments, prototypes and applications of relative fields.
+- プロジェクトに触覚、仮想現実、人間増強、ロボット工学などの分野について研究を行いました。
+- そのための実験、原型、アプリケーションを開発しました。
 
-### User Experience Design Intern
+### ユーザーデザイン インターン
 
-**Lenovo Research** \| Beijing, China
+**Lenovo 研究所** \| 中国北京
 
 Sep 2013 - Feb 2014
 
 - User Research Center
-- Researched into user's behavior towards a variety of consumer electronics.
-- Developed the preliminary design of the next generation smart devices.
+- 様々な電子製品のユーザー調査しました。
+- 次世代スマート電子製品の予備設計を開発しました。
 
 
 
