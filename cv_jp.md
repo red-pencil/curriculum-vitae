@@ -4,7 +4,7 @@
 English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 
-ホームページ: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
+ホームページ: [www.shenlichao.com](http://www.shenlichao.com)
 
 メール: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
@@ -46,7 +46,7 @@ C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
 
 ### エンジニアリング
 
-製図, 機械加工
+工程製図, 機械加工
 
 (SolidWorks, Pro/Engineer, AutoCAD)
 
@@ -106,7 +106,7 @@ Sep 2010 - Jun 2014
 
 Sep 2015 - Mar 2018
 
-- [身体性メディアプロジェクト](http://www.embodiedmedia.org)
+- [「身体性メディア」プロジェクト](http://www.embodiedmedia.org)
 - プロジェクトに触覚、仮想現実、人間増強、ロボット工学などの分野について研究を行いました。
 - そのための実験、原型、アプリケーションを開発しました。
 
@@ -117,7 +117,7 @@ Sep 2015 - Mar 2018
 Sep 2013 - Feb 2014
 
 - User Research Center
-- 様々な電子製品のユーザー調査しました。
+- 様々な電子製品のユーザー調査研究を行う。
 - 次世代スマート電子製品の予備設計を開発しました。
 
 
@@ -158,9 +158,9 @@ Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 
 ### Limitless Oculus
 
-**Visual Expansion by Animal-Inspired Visuomotor Modification**
+**動物に触発された視覚運動の変更による視覚拡張**
 
-*Master Thesis*
+*修士論文*
 
 Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
 
@@ -168,9 +168,9 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 ### Unconstrained Neck
 
-**Omnidirectional Observation from an Extra Robotic Neck**
+**ロボット首から全方位の観測**
 
-*学会DEMO*
+*学術会議デモ*
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
@@ -179,23 +179,23 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 ### Ambient
 
-**Facial Thermal Feedback in Remotely Operated Applications**
+**遠隔操作される応用における顔面熱フィードバック**
 
-*学会DEMO*
+*学術会議デモ*
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
 
 ### Eye-in-Hand
 
-**"Snail Sight", Autonomous Monocular Vision, Observe Dual Scenes Simultaneously**
+**「カタツムリの目」、独立の単眼の視覚、同時に二つのシーンを観察する**
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
 
 ### Bug View
 
-**"Being a Spider", Telexistence from Human to a Spider Robot**
+**「変身」、人類からスパイダーロボットへの遠隔存在**
 
 Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
