@@ -162,7 +162,7 @@ Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 *Master Thesis*
 
 Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
-[pdf](cv/pdf/Thesis_KMD_Leon_180219last.pdf)
+[[pdf](pdf/Thesis_KMD_Leon_180219last.pdf)]
 
 Supervisor: Kouta Minamizawa, Sub-supervisor: Kai Kunze, Co-viewer: Ishido Nanako
 
