@@ -3,8 +3,9 @@
 
 English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
+[[Download CV](pdf/cv.pdf)]
 
-Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
+Homepage: <red-pencil.github.io/homepage](http://red-pencil.github.io/homepage)
 
 Email: <lichao.shen@hotmail.com>
 
