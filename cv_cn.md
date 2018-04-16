@@ -1,6 +1,6 @@
-# 沈力超
+# Lichao **Shen**
 
-[English](index.md) | [中文](cv_cn.md) | [日本語](cv_jp.md)
+[English](index.md) | **中文** | [日本語](cv_jp.md)
 
 [[下载简历](pdf/cv_cn.pdf)]
 
