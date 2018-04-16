@@ -1,7 +1,7 @@
 # Lichao **Shen**
 
 
-English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
+**English** | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 [[Download CV](pdf/cv.pdf)]
 
