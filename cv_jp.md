@@ -1,6 +1,6 @@
 # シン リョクチョウ
 
-English | [中文版](cv_cn.md) | [日本語](cv_jp.md)
+[English](index.md) | [中文版](cv_cn.md) | 日本語
 
 [[履歴書ダウンロード](pdf/cv_jp.pdf)]
 
