@@ -226,6 +226,7 @@ Hahaki is postcard customizable system for modern cities. It consists of a smart
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
 
+[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/4)**]
 
 ### AERO-2013 Racing Car
 
@@ -234,4 +235,5 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
 
+[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/10)**]
 
