@@ -71,7 +71,7 @@ Sep 2010 - Jun 2014
 
 ## Experience
 
-### Student Researcher
+### Project Researcher
 
 **Cyber Living Lab** \| Tokyo, Japan
 
