@@ -194,7 +194,7 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
-**"Snail Sight", Autonomous Monocular Vision, Observe Dual Scenes Simultaneously**
+**"Snail Sight", Vision Oriented by Hands, Observe Dual Scenes Simultaneously**
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
