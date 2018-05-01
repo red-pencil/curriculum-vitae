@@ -75,7 +75,7 @@ Sep 2010 - Jun 2014
 
 **Cyber Living Lab** \| Tokyo, Japan
 
-Sep 2015 - Mar 2018
+Sep 2015 - present
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
@@ -211,7 +211,7 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 ### TP/Screamer
 
-TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out over the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home. The product is prepared for online crowdfunding.
+*TP/Screamer* (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out over the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home. The product is prepared for online crowdfunding.
 
 - Designed the product individually, and fabricated an appearance prototype and a functional prototype.
 - Finished branding materials including a pictured story and a promotional video.
@@ -221,7 +221,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 
 ### Hahaki
 
-Hahaki is postcard customizable system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
+*Hahaki* is postcard customizable system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
@@ -230,7 +230,7 @@ Hahaki is postcard customizable system for modern cities. It consists of a smart
 
 ### AERO-2013 Racing Car
 
-AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
+*AERO-2013* is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
 
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
