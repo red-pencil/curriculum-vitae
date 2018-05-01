@@ -41,7 +41,7 @@
 
 ### 编程
 
-C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX
+C, C# , JavaScript, Python, Ruby, Arduino, HTML, TeX
 
 ### 工程
 
@@ -107,16 +107,16 @@ Sep 2010 - Jun 2014
 **Cyber Living Lab 实验室** \| 日本东京 \| Sep 2015 - Mar 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
-- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiments, prototypes and applications of relative fields.
+- 研究触觉，虚拟现实，⼈类增强，远程存在等相关领域；
+- 进⾏实验，开发原型和应⽤。
 
 ### 用户体验实习
 
 **联想研究院** \| 中国北京 \| Sep 2013 - Feb 2014
 
 - 用户研究中心
-- Researched into user's behavior towards a variety of consumer electronics.
-- Developed the preliminary design of the next generation smart devices.
+- 研究⽤⼾对各种电⼦产品的⾏为习惯；
+- 进⾏下⼀代智能设备的先⾏设计。
 
 
 
