@@ -84,7 +84,7 @@ Sep 2015 - Mar 2018
 Jan 2017 - May 2017
 
 
-**皇家艺术学院 & 伦敦帝国学院** (Royal College of Art & Imperial College London) \| 英国伦敦
+**皇家艺术学院**(Royal College of Art) & **伦敦帝国学院**(Imperial College London) \| 英国伦敦
 
 Sep 2016 - Dec 2016
 
@@ -102,7 +102,7 @@ Sep 2010 - Jun 2014
 
 ## 经历
 
-### 学生研究员
+### 项目研究员
 
 **Cyber Living Lab 实验室** \| 日本东京 \| Sep 2015 - Mar 2018
 
