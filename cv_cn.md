@@ -16,54 +16,27 @@
 
 摄影作品: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
 
+
+
 ## 专业领域
 
 - **人机交互**
-- 虚拟现实 & 混合现实
+- 虚拟现实
+- 混合现实
 - 计算机图形学
 - 可穿戴设备 & 普适计算
-- 机器学习
 
 - **人类增强**
 - 认知科学
 - 神经科学
-- 机器人学 & 机械工程
+- 机器人学
+- 机械工程
 
 - **交互设计**
 - 用户体验
 - 用户界面
-- 新媒体设计
+- 媒体设计
 - 工业设计
-
-
-
-## 技能
-
-### 编程
-
-C, C# , JavaScript, Python, Ruby, Arduino, HTML, TeX
-
-### 工程
-
-工程制图, 机械加工
-
-工程软件 (SolidWorks, Pro/Engineer, AutoCAD)
-
-### 设计
-
-铅笔素描, 马克笔素描, 原型制作
-
-图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
-
-
-
-## Languages
-
-**中文** - 母语
-
-**英语** - 学术
-
-**日本** - 初级
 
 
 
@@ -104,7 +77,9 @@ Sep 2010 - Jun 2014
 
 ### 项目研究员
 
-**Cyber Living Lab 实验室** \| 日本东京 \| Sep 2015 - Mar 2018
+**Cyber Living Lab 实验室** \| 日本东京
+
+Sep 2015 - 至今
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
 - 研究触觉，虚拟现实，⼈类增强，远程存在等相关领域；
@@ -112,11 +87,42 @@ Sep 2010 - Jun 2014
 
 ### 用户体验实习
 
-**联想研究院** \| 中国北京 \| Sep 2013 - Feb 2014
+**联想研究院** \| 中国北京 
+
+Sep 2013 - Feb 2014
 
 - 用户研究中心
 - 研究⽤⼾对各种电⼦产品的⾏为习惯；
 - 进⾏下⼀代智能设备的先⾏设计。
+
+
+## 技能
+
+### 编程
+
+C, C# , JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
+
+### 工程
+
+工程制图, 机械加工
+
+工程软件 (SolidWorks, Pro/ENGINEER, AutoCAD)
+
+### 设计
+
+铅笔素描, 马克笔素描, 原型制作
+
+图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
+
+
+
+## Languages
+
+**中文** - 母语
+
+**英语** - 学术
+
+**日本** - 初级
 
 
 
@@ -161,7 +167,7 @@ Dec 2013, Dec 2012, Dec 2011 \| 中国北京
 
 *硕士学位论文*
 
-*Supervisor: Kouta Minamizawa, Sub-supervisor: Kai Kunze, Co-viewer: Ishido Nanako*
+*指导: Kouta Minamizawa, 副指导: Kai Kunze, 副审查: Ishido Nanako*
 
 Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
 
@@ -172,7 +178,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 **全向观察的附加机械颈部**
 
-*会议论文*
+*会议展示*
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
@@ -183,7 +189,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **远程操作应用中的面部温度反馈**
 
-*会议论文*
+*会议展示*
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
@@ -195,6 +201,7 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 **蜗牛仿生眼，手导向视觉，同时观察双重场景**
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
+
 
 ### Bug View
 
@@ -223,10 +230,14 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
 
+[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/4)**]
+
 ### AERO-2013 Racing Car
 
 *AERO-2013* is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
 
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
+
+[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/10)**]
 

@@ -97,7 +97,7 @@ Sep 2013 - Feb 2014
 
 ### Programming
 
-C, C#, JavaScript, Python, Ruby, Arduino, HTML, TeX
+C, C#, JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
 
 ### Engineering
 
