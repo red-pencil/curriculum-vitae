@@ -14,17 +14,17 @@
 
 项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
 
-摄影作品: [500px.com/hx470000](https://500px.com/hx470000/galleries/top)
+摄影作品: [500px.com/hx470000](https://500px.com/hx470000/galleries/redheart)
 
 
 
 ## 专业领域
 
-- **人机交互**
-- 虚拟现实
-- 混合现实
-- 计算机图形学
-- 可穿戴设备 & 普适计算
+- **人机交互** (HCI)
+- 虚拟现实 (VR)
+- 混合现实 (MR)
+- 计算机图形学 (CG)
+- 普适计算 (可穿戴设备, 物联网)
 
 - **人类增强**
 - 认知科学
@@ -32,9 +32,9 @@
 - 机器人学
 - 机械工程
 
-- **交互设计**
-- 用户体验
-- 用户界面
+- **交互设计** (IxD)
+- 用户体验 (UX)
+- 用户界面 (UI)
 - 媒体设计
 - 工业设计
 
@@ -44,7 +44,7 @@
 
 ### 硕士（媒体设计学）
 
-**庆应义塾大学**(慶應義塾大学) \| 日本东京
+**庆应义塾大学** (慶應義塾大学) \| 日本东京
 
 Sep 2015 - Mar 2018
 
@@ -52,12 +52,12 @@ Sep 2015 - Mar 2018
 - 媒体设计
 
 
-**普瑞特艺术学院**(Pratt Institute) \| 美国纽约
+**普瑞特艺术学院** (Pratt Institute) \| 美国纽约
 
 Jan 2017 - May 2017
 
 
-**皇家艺术学院**(Royal College of Art) & **伦敦帝国学院**(Imperial College London) \| 英国伦敦
+**皇家艺术学院** (Royal College of Art) & **伦敦帝国学院** (Imperial College London) \| 英国伦敦
 
 Sep 2016 - Dec 2016
 
