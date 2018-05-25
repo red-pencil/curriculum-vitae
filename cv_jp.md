@@ -24,7 +24,7 @@
 - 仮想現実 & 複合現実
 - コンピューターグラフィックス(CG)
 - ウエアラブル
-- 機械学習
+
 
 - **人間拡張**
 - 認知科学
@@ -37,36 +37,6 @@
 - ユーザ-インタフェース(UI)
 - メディアデザイン
 - インダストリアルデザイン
-
-
-
-## 技能
-
-### プログラミング
-
-C, C# (Unity), JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
-
-### エンジニアリング
-
-工程製図, 機械加工
-
-(SolidWorks, Pro/ENGINEER, AutoCAD)
-
-### デザイン
-
-スケッチ（鉛筆、マーカー）, 原型制作
-
-(Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
-
-
-
-## 言語
-
-**中国語** - 母語
-
-**英語** - 学術
-
-**日本語** - 初級
 
 
 
@@ -121,6 +91,36 @@ Sep 2013 - Feb 2014
 - User Research Center
 - 様々な電子製品のユーザー調査研究を行う。
 - 次世代スマート電子製品の予備設計を開発しました。
+
+
+
+## 技能
+
+### プログラミング
+
+C, C#, JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
+
+### エンジニアリング
+
+工程製図, 機械加工
+
+(SolidWorks, Pro/ENGINEER, AutoCAD)
+
+### デザイン
+
+スケッチ（鉛筆、マーカー）, 原型制作
+
+(Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
+
+
+
+## 言語
+
+**中国語** - 母語
+
+**英語** - 学術
+
+**日本語** - 初級
 
 
 
@@ -227,6 +227,8 @@ Hahaki is postcard customizable system for modern cities. It consists of a smart
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
 
+[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/4)**]
+
 
 ### AERO-2013 Racing Car
 
@@ -235,3 +237,4 @@ AERO-2013 is the annual model of the AERO racing team, a student team. It is a r
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
 
+[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/10)**]
