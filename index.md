@@ -1,20 +1,18 @@
 # Lichao **Shen**
 
-[[Download CV](pdf/cv.pdf)]
+\>[Download CV](pdf/cv.pdf)
 
 **English** | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
 ***
 
-Homepage: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage), <http://www.shenlichao.com>
+Homepage: <http://www.shenlichao.com>
 
 Email: <lichao.shen@hotmail.com>
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
 Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
-
-Gallery: [500px.com/hx470000](https://500px.com/hx470000/galleries/redheart)
 
 
 

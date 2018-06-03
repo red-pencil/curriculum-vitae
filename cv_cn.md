@@ -1,12 +1,12 @@
 # Lichao **Shen**
 
-[[下载简历](pdf/cv_cn.pdf)]
+\>[下载简历](pdf/cv_cn.pdf)<
 
 [English](index.md) | **中文** | [日本語](cv_jp.md)
 
 ***
 
-个人主页: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage), <http://www.shenlichao.com>
+个人主页: [shenlichao.com](http://www.shenlichao.com)
 
 电子邮箱: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
@@ -14,11 +14,9 @@
 
 项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
 
-摄影作品: [500px.com/hx470000](https://500px.com/hx470000/galleries/redheart)
 
 
-
-## 专业领域
+## 兴趣领域
 
 - **人机交互** (HCI)
 - 虚拟现实 (VR)

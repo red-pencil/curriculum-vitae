@@ -1,6 +1,6 @@
 # シン リョクチョウ
 
-[[履歴書ダウンロード](pdf/cv_jp.pdf)]
+>[履歴書ダウンロード](pdf/cv_jp.pdf)<
 
 [English](index.md) | [中文版](cv_cn.md) | **日本語**
 
@@ -13,8 +13,6 @@
 デザインポートフォリオ: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
 
 ビデオ: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
-
-写真ギャラリー: [500px.com/hx470000](https://500px.com/hx470000/galleries/redheart)
 
 
 
