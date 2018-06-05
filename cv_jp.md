@@ -2,7 +2,7 @@
 
 \> **[履歴書ダウンロード](pdf/cv_jp.pdf)** <
 
-[English](index.md) | [中文版](cv_cn.md) | **日本語**
+[English](index.md) | [中文](cv_cn.md) | **日本語**
 
 ***
 
