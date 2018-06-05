@@ -1,6 +1,6 @@
 # Lichao **Shen**
 
-\>[Download CV](pdf/cv.pdf)
+\> **[Download CV](pdf/cv.pdf)**
 
 **English** | [中文版](cv_cn.md) | [日本語](cv_jp.md)
 
