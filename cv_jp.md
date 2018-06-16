@@ -6,7 +6,7 @@
 
 ***
 
-ホームページ: [red-pencil.github.io/homepage](http://red-pencil.github.io/homepage), <http://www.shenlichao.com>
+ホームページ: [shenlichao.com](http://www.shenlichao.com)
 
 メール: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
