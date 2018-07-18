@@ -209,6 +209,7 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 ## デザンープロジェクト
 
 ### TP/Screamer
+**トイレットペーパーの無駄を減らすように設計された環境にやさしい紙巻器**
 
 TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out over the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home. The product is prepared for online crowdfunding.
 
@@ -219,6 +220,7 @@ TP/Screamer (Toilet Paper Screamer), is a new eco-friendly toilet paper dispense
 
 
 ### Hahaki
+**はがきカスタマイズと販売システム**
 
 Hahaki is postcard customizable system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
@@ -229,6 +231,7 @@ Hahaki is postcard customizable system for modern cities. It consists of a smart
 
 
 ### AERO-2013 Racing Car
+**学生チーム作ったレースカー**
 
 AERO-2013 is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
 
