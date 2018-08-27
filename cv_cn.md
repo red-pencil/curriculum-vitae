@@ -10,31 +10,20 @@
 
 电子邮箱: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
-设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
+设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf)
 
-项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
+项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), [cv.shenlichao.com](http://cv.shenlichao.com#research)
 
 
 
 ## 兴趣领域
 
 - **人机交互** (HCI)
-- 虚拟现实 (VR)
-- 混合现实 (MR)
-- 计算机图形学 (CG)
-- 普适计算 (可穿戴设备, 物联网)
-
+- 虚拟现实 (VR) • 混合现实 (MR) • 计算机图形学 (CG) • 普适计算 (可穿戴设备, 物联网)
 - **人类增强**
-- 认知科学
-- 神经科学
-- 机器人学
-- 机械工程
-
+- 认知科学 • 神经科学 • 机器人学 • 机械工程
 - **交互设计** (IxD)
-- 用户体验 (UX)
-- 用户界面 (UI)
-- 媒体设计
-- 工业设计
+- 用户体验设计 (UED) • 用户界面设计 (UI) • 媒体设计 • 工业设计
 
 
 
@@ -77,7 +66,7 @@ Sep 2010 - Jun 2014
 
 **Cyber Living Lab 实验室** \| 日本东京
 
-Sep 2015 - 至今
+Sep 2015 - July 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
 - 研究触觉，虚拟现实，⼈类增强，远程存在等相关领域；
@@ -108,7 +97,7 @@ C, C# , JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
 
 ### 设计
 
-铅笔素描, 马克笔素描, 原型制作
+铅笔&马克笔素描, 原型制作
 
 图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
 
@@ -180,7 +169,7 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
-[**[DOI](https://dl.acm.org/citation.cfm?id=3174955)**] . [**[PDF](pdf/a38-shen.pdf)**] . [**[Video](https://youtu.be/xq5xTcrdzXU)**] . [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
+[**[DOI](https://dl.acm.org/citation.cfm?id=3174955)**] . [**[PDF](pdf/a38-shen.pdf)**] . [**[Video](http://cv.shenlichao.com/videos/ah2018.mp4)**] . [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
 
 ### Ambient
@@ -191,7 +180,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
-[**[DOI](https://dl.acm.org/citation.cfm?doid=3170427.3186483)**] . [**[PDF](pdf/paper1375.pdf)**] . [**[Video](https://youtu.be/Ewe2X663NNE)**]
+[**[DOI](https://dl.acm.org/citation.cfm?doid=3170427.3186483)**] . [**[PDF](pdf/paper1375.pdf)**] . [**[Video](http://cv.shenlichao.com/videos/chi2018.mp4)**]
 
 
 ### Eye-in-Hand
@@ -218,7 +207,7 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 - Designed the product individually, and fabricated an appearance prototype and a functional prototype.
 - Finished branding materials including a pictured story and a promotional video.
 
-[**[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)**] . [**[Video](https://youtu.be/UHSKzdS4NOA)**]
+[**[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)**] . [**[Video](http://cv.shenlichao.com/videos/tpscreamer.mp4)**]
 
 
 ### Hahaki
@@ -228,7 +217,7 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
 
-[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/4)**]
+[**[PDF](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf#HAHAKI)**]
 
 ### AERO-2013 Racing Car
 
@@ -237,5 +226,5 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 - Designed the bodywork and aerodynamic kit.
 - Participated in building the vehicle.
 
-[**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/10)**]
+[**[PDF](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf#page=10)**]
 
