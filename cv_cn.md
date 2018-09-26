@@ -6,13 +6,13 @@
 
 ***
 
-个人主页: [shenlichao.com](http://www.shenlichao.com)
+个人主页: [shenlichao.com](http://www.shenlichao.com), [xanadu.shenlichao.com](http://xanadu.shenlichao.com)
 
 电子邮箱: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
-设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf)
+设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
-项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), [cv.shenlichao.com](http://cv.shenlichao.com#research)
+项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), [cv.shenlichao.com/#research](http://cv.shenlichao.com/#research)
 
 
 
@@ -23,7 +23,7 @@
 - **人类增强**
 - 认知科学 • 神经科学 • 机器人学 • 机械工程
 - **交互设计** (IxD)
-- 用户体验设计 (UED) • 用户界面设计 (UI) • 媒体设计 • 工业设计
+- 用户体验设计 (UE) • 用户界面设计 (UI) • 媒体设计 • 工业设计
 
 
 
@@ -31,22 +31,21 @@
 
 ### 硕士（媒体设计学）
 
+- 人机交互
+- 媒体设计
+
 **庆应义塾大学** (慶應義塾大学) \| 日本东京
 
 Sep 2015 - Mar 2018
 
-- 人机交互
-- 媒体设计
-
-
 **普瑞特艺术学院** (Pratt Institute) \| 美国纽约
 
-Jan 2017 - May 2017
+Jan 2017 - May 2017 (交换学习)
 
 
 **皇家艺术学院** (Royal College of Art) & **伦敦帝国学院** (Imperial College London) \| 英国伦敦
 
-Sep 2016 - Dec 2016
+Sep 2016 - Dec 2016 (交换学习)
 
 
 ### 工学士
@@ -87,7 +86,9 @@ Sep 2013 - Feb 2014
 
 ### 编程
 
-C, C# , JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
+C, C# , JavaScript, Python, HTML, CSS
+
+Unity, Arduino, TeX, Git
 
 ### 工程
 
@@ -99,7 +100,7 @@ C, C# , JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
 
 铅笔&马克笔素描, 原型制作
 
-图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
+图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
 
 
 
@@ -147,6 +148,8 @@ Dec 2013, Dec 2012, Dec 2011 \| 中国北京
 ***
 
 ## 研究项目
+
+详情查阅： [cv.shenlichao.com/#research](cv.shenlichao.com/#research)
 
 ### Limitless Oculus
 
@@ -199,6 +202,8 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 
 ## 设计项目
+
+详情查阅： [cv.shenlichao.com/#design](cv.shenlichao.com/#design)
 
 ### TP/Screamer
 

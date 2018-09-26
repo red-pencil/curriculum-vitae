@@ -6,13 +6,13 @@
 
 ***
 
-Homepage: <http://shenlichao.com>
+Homepage: [shenlichao.com](http://shenlichao.com), [xanadu.shenlichao.com](http://xanadu.shenlichao.com)
 
 Email: <lichao.shen@hotmail.com>
 
-Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re)
+Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
-Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg)
+Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg),  [cv.shenlichao.com/#research](http://cv.shenlichao.com/#research)
 
 
 
@@ -42,29 +42,33 @@ Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onk
 
 ### Master of Media Design
 
-- Human-Computer Interaction
-- Media Design
-
 **Keio University** \| Tokyo, Japan
 
 Sep 2015 - Mar 2018
 
+- Human-Computer Interaction
+- Media Design
+
 **Pratt Institute** \| New York, USA
+
+- Design (Exchange Study)
 
 Jan 2017 - May 2017
 
 **Royal College of Art & Imperial College London** \| London, UK
 
+- Design (Exchange Study)
+
 Sep 2016 - Dec 2016
 
 ### Bachelor of Engineering
 
-- Industrial Design
-- Mechanical Engineering
-
 **Beihang University** \| Beijing, China
 
 Sep 2010 - Jun 2014
+
+- Industrial Design
+- Mechanical Engineering
 
 
 
@@ -74,7 +78,7 @@ Sep 2010 - Jun 2014
 
 **Cyber Living Lab** \| Tokyo, Japan
 
-Sep 2015 - present
+Sep 2015 - Jul 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
@@ -96,7 +100,9 @@ Sep 2013 - Feb 2014
 
 ### Programming
 
-C, C#, JavaScript, Python, Ruby, Arduino, HTML, TeX, Git, UNIX
+C, C#, JavaScript, Python, HTML, CSS
+
+Unity, Arduino, TeX, Git
 
 ### Engineering
 
@@ -108,7 +114,7 @@ Engineering Software (SolidWorks, Pro/ENGINEER, AutoCAD)
 
 Pencil & Marker Sketch, Gouache Painting, Prototyping
 
-Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Unity)
+Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
 
 
 
@@ -155,6 +161,8 @@ Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 ***
 
 ## Research Projects
+
+more at [cv.shenlichao.com/#research](cv.shenlichao.com/#research)
 
 ### Limitless Oculus
 
@@ -207,6 +215,8 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 
 ## Design Projects
+
+more at [cv.shenlichao.com/#design](cv.shenlichao.com/#design)
 
 ### TP/Screamer
 
