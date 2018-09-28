@@ -79,22 +79,20 @@ Sep 2010 - Jun 2014
 
 ### Project Researcher
 
-**Cyber Living Lab**
+**Cyber Living Lab** \| Tokyo, Japan
 
-Sep 2015 - Jul 2018 \| Tokyo, Japan
+Sep 2015 - Jul 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
-
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-
 - Develop experiments, prototypes and applications of relative fields.
 
 
 ### User Research Intern
 
-**Lenovo Research**
+**Lenovo Research** \| Beijing, China
 
-Sep 2013 - Feb 2014 \| Beijing, China
+Sep 2013 - Feb 2014
 
 - User Research Center
 - Researched into user's behavior towards a variety of consumer electronics.
