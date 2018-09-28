@@ -27,9 +27,9 @@
 
 
 
-## Education
+## 教育背景
 
-### 硕士（媒体设计学）
+### 硕士
 
 - 人机交互
 - 媒体设计
@@ -42,10 +42,11 @@ Sep 2015 - Mar 2018
 
 Jan 2017 - May 2017 (交换学习)
 
-
-**皇家艺术学院** (Royal College of Art) & **伦敦帝国学院** (Imperial College London) \| 英国伦敦
+**皇家艺术学院** (Royal College of Art) & **帝国理工学院** (Imperial College London) \| 英国伦敦
 
 Sep 2016 - Dec 2016 (交换学习)
+
+
 
 
 ### 工学士
@@ -59,6 +60,8 @@ Sep 2010 - Jun 2014
 
 
 
+
+
 ## 经历
 
 ### 项目研究员
@@ -68,8 +71,11 @@ Sep 2010 - Jun 2014
 Sep 2015 - July 2018
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
+
 - 研究触觉，虚拟现实，⼈类增强，远程存在等相关领域；
+
 - 进⾏实验，开发原型和应⽤。
+
 
 ### 用户体验实习
 
@@ -104,7 +110,7 @@ Unity, Arduino, TeX, Git
 
 
 
-## Languages
+## 语言
 
 **中文** - 母语
 
@@ -119,8 +125,11 @@ Unity, Arduino, TeX, Git
 
 **Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
-
 MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
+
+
+
+
 
 
 ## 荣誉
@@ -145,6 +154,8 @@ Dec 2013, Dec 2012, Dec 2011 \| 中国北京
 
 
 
+
+
 ***
 
 ## 研究项目
@@ -159,7 +170,8 @@ Dec 2013, Dec 2012, Dec 2011 \| 中国北京
 
 *指导: Kouta Minamizawa, 副指导: Kai Kunze, 副审查: Ishido Nanako*
 
-Humans are trapped in their senses. The human vision was relatively narrow and weak, comparing to the variety of animal superior abilities. Through my investigation, it was figured out that the human musculoskeletal systems, especially the neck, were a factor limiting the spatial range of vision. In order to help human overcome part of those limitations, I proposed the animal-inspired concept called *Limitless Oculus*. That was to substitute or modify the original visuomotor coordination of human, with a certain artificial mechanism. The mechanism, orienting the vision, was modified and designed to be programmable and customizable. The benefits aimed to promote the flexibility of the spatial orientation of vision, and hence achieve visual expansion and substitution. Besides, the concept had more possible applications with a variety of modifications and mechanisms. The method had physiological and cognitive influence, so it can not only be a tool but also change human mind. Two prototypes were presented. Then I conducted experiments to evaluate the performance of the prototypes, and prove the feasibility of the concept. The result indicated that the spatial range of vision was expanded, while the speed of the scan and response could also be augmented in a certain range.
+人类被自身的感觉所困。与非人类生物多样的超常能力相比，人类的视觉相对狭窄和微弱。根据我的调研，以颈部为代表的人的肌肉骨骼系统是限制视觉空间范围的一个因素。我受非人类生物的启发，提出此名为Limitless Oculus的概念，以帮助人类突破一部分生理限制。即是用特定的人造机制来修改或代替人类原本的视觉-运动协调。此类控制着视觉朝向的机制，被修改设定为可编程的和可定制的。此概念的积极意义在于提高视觉空间朝向的灵活性，并因此实现视觉扩张和视觉代替。此外，采用不同机制会让这个概念有更多的可能性和应用。此方法影响生理层面和认知层面，故不但是一件工具而且可以改变人类的思维方式。此处展示了两个原型设备。然后我进行实验来评估这些原型设备的性能，证明此概念的可行性。结果显示视觉的空间范围被扩大，同时在特定范围内扫视和反应速度得到提高。
+
 
 [**[PDF](pdf/Thesis_KMD_Leon_180219last.pdf)**]
 
@@ -168,9 +180,9 @@ Humans are trapped in their senses. The human vision was relatively narrow and w
 
 **全向观察的附加机械颈部**
 
-*会议展示*
+*AH'18 会议最佳DEMO奖*
 
-Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
+由于颈部狭窄的活动范围和眼睛狭小的视场，人类的视觉在空间方面受到限制。我们提出用能够改变活动范围的可编程颈部来解决此问题。名为Unconstrained Neck头戴机械颈部是一套颈部代替系统，此系统拥有更加宽广的活动范围，让人类得以克服颈部的生理极限。使用这个机械颈部的时候，调整视觉-运动增益可以被调节，正因此用户可以控制实际颈部动作的范围和速度，进一步影响引发的视觉运动。
 
 [**[DOI](https://dl.acm.org/citation.cfm?id=3174955)**] . [**[PDF](pdf/a38-shen.pdf)**] . [**[Video](http://cv.shenlichao.com/videos/ah2018.mp4)**] . [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
@@ -179,9 +191,9 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **远程操作应用中的面部温度反馈**
 
-*会议展示*
+*CHI'18 会议DEMO*
 
-Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
+面部温感对直接感受温度，传递环境感知和充实主观存在感都有重要意义。在远程存在领域，针对此类感觉方法的研究依然缺乏。我们提供能生动感受远程存在的系统，名为Ambient。此系统由温感反馈系统和第一人称视角远程存在系统构成。在此我们呈献设计和实践的概述，同时展示亲密社交的应用场景。
 
 [**[DOI](https://dl.acm.org/citation.cfm?doid=3170427.3186483)**] . [**[PDF](pdf/paper1375.pdf)**] . [**[Video](http://cv.shenlichao.com/videos/chi2018.mp4)**]
 
@@ -190,14 +202,14 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 **蜗牛仿生眼，手导向视觉，同时观察双重场景**
 
-In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
+自然情况下，人的双眼是协同工作的，朝向相同，因而所接受的视觉刺激基本是等同的。双眼被分配不同内容的情况会引发全新的视觉体验。我们制作了一个可穿戴式设备，此设备从双手的位置分别获取不相同的影像，并分别传递给双眼，效果即使用上肢来控制视觉的朝向。整个系统将两个不同的图像来源整合，在避免双目竞争的前提下，让用户能够同时观测两个不同朝向的视觉信息。此设备提高了视觉朝向的灵活性，激进地改变了视觉-运动协调。我们得以检测用户对分离视觉的适应程度和相应不适的副作用。
 
 
 ### Bug View
 
 **"变形记", 从人体到蜘蛛机器人的远程存在**
 
-Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
+现有的远程存在技术多集中研究人形机器人和复制重现人类的感觉。Bug View别出心裁地关注将人类身体意识映射到非人类对象，而非人类地对象往往具有和人类完全不同的身体构造。本项目采用仿生蜘蛛机器人作为对象，目标是实现对仿生蜘蛛机器人的无缝操控，进一步产生“成为一只蜘蛛”的浸入式体验。这其中人机映射可分为感觉器官映射和运动器官映射。我们提出了几种可行的方法并且制作了交互原型。然后我们计划用实验寻找能够提供最高程度存在意识的最优解决方案。最后讨论了此类技术的潜在的应用。
 
 
 
@@ -207,29 +219,29 @@ Existing telepresence and telexistence research focus on humanoid and duplicatin
 
 ### TP/Screamer
 
-*TP/Screamer* (Toilet Paper Screamer), is a new eco-friendly toilet paper dispenser designed to reduce the waste of toilet paper. Every time when the sheets are pulled out over the limit (for instance, the length of 30 inches), it will let out voice warning to notify users to stop consuming more than necessity. It is good for both education and fun, and suitable for both public and home. The product is prepared for online crowdfunding.
+制纸工业消耗了大量森林，给地球生态带来压力。TP/Screamer（尖叫卫生纸架）是一个环保的卫生纸发放器设计，旨在减少卫生纸的浪费。每当抽出超过一定长度（如5张）的卫生纸后，它便会发出尖叫警告来提醒用户停止不必要的浪费。它可用于严肃教育或者是搞怪娱乐，适用于公共场合或者家庭等场景。
 
-- Designed the product individually, and fabricated an appearance prototype and a functional prototype.
-- Finished branding materials including a pictured story and a promotional video.
+- 独立设计，并制作了外观原型和功能原型。
+- 制作网上众筹所需媒体材料，包括品牌故事，宣传视频，生产预算和计划。
 
 [**[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)**] . [**[Video](http://cv.shenlichao.com/videos/tpscreamer.mp4)**]
 
 
 ### Hahaki
 
-*Hahaki* is postcard customization system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
+明信片作为纸质邮件时代的幸存者，依然广受大众的欢迎。Hahaki是一套城市明信片定制系统，为现代旅游城市所设计。它由移动端APP和打印机组成。在移动端APP内，用户可以为明信片编辑内容以及添加有意义的信息。定制完成以后，用户可以使用放置在景点或便利店附近的打印机打印出来，并且邮寄。这个项目参加了2013年12月在日本东京举办的“城市，博物馆，东京”展览。
 
-- Led a group to finish the project.
-- Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
+- 领导小组完成项目。
+- 提出概念构思，设计APP交互架构和界面，以及打印机原型。
 
 [**[PDF](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf#HAHAKI)**]
 
 ### AERO-2013 Racing Car
 
-*AERO-2013* is the annual model of the AERO racing team, a student team. It is a racing car constructed for the Formula SAE series motor competitions. The design work is finished collaboratively based on the Formula SAE rules. Aerodynamic effect is considered and analyzed by computational fluid dynamics. It won 8th place out of 53 teams in the competition of Formula Student China 2013, and then was selected to the exhibition of Auto China 2014 by the sponsor.
+AERO-2013是AERO学生车队的2013年度车型，它为学生方程式系列比赛而生。其设计依照学生方程式赛车规则，由车队合作完成设计与制造。其设计考虑了空气动力学，并且使用了计算机辅助模拟流体力学分析效果。最终，此车在2013年度中国学生方程式比赛中，从53支队伍中脱颖而出，获得了第8名的好成绩，而且在赞助商支持下参加了2014年度汽车中国展会。
 
-- Designed the bodywork and aerodynamic kit.
-- Participated in building the vehicle.
+- 设计车身和空气动力套件。
+- 参与车辆的制造。
 
 [**[PDF](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf#page=10)**]
 

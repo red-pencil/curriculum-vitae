@@ -18,29 +18,30 @@ Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onk
 
 ## Fields of Interest
 
-- **Human-Computer Interaction**
-- Virtual Reality
-- Mixed Reality
-- Commputer Graphics
-- Ubiquitous Computing
+### Computer Science
 
-- **Human Enhancement**
-- Cognitive Science
-- Neuroscience
-- Robotics
-- Mechanical Engineering
+Human-Computer Interaction • Ubiquitous Computing • Interaction Design
 
-- **Interaction Design**
-- User Experience
-- User Interface
-- New Media
-- Industrial Design
+Computer Graphics • Virtual Reality • Mixed Reality
+
+### Human Enhancement
+
+Cognitive Science  • Neuroscience
+
+Robotics • Mechanical Engineering
+
+### Design
+
+Interaction Design • User Experience • User Interface
+
+New Media • Industrial Design
+
 
 
 
 ## Education
 
-### Master of Media Design
+### **Master** of Media Design
 
 **Keio University** \| Tokyo, Japan
 
@@ -49,19 +50,21 @@ Sep 2015 - Mar 2018
 - Human-Computer Interaction
 - Media Design
 
-**Pratt Institute** \| New York, USA
-
-- Design (Exchange Study)
+**Pratt Institute** \| New York, US
 
 Jan 2017 - May 2017
 
-**Royal College of Art & Imperial College London** \| London, UK
-
 - Design (Exchange Study)
+
+**Royal College of Art & Imperial College London** \| London, UK
 
 Sep 2016 - Dec 2016
 
-### Bachelor of Engineering
+- Design (Exchange Study)
+
+
+
+### **Bachelor** of Engineering
 
 **Beihang University** \| Beijing, China
 
@@ -76,19 +79,22 @@ Sep 2010 - Jun 2014
 
 ### Project Researcher
 
-**Cyber Living Lab** \| Tokyo, Japan
+**Cyber Living Lab**
 
-Sep 2015 - Jul 2018
+Sep 2015 - Jul 2018 \| Tokyo, Japan
 
 - [Embodied Media Project](http://www.embodiedmedia.org)
+
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
+
 - Develop experiments, prototypes and applications of relative fields.
 
-### User Experience Design Intern
 
-**Lenovo Research** \| Beijing, China
+### User Research Intern
 
-Sep 2013 - Feb 2014
+**Lenovo Research**
+
+Sep 2013 - Feb 2014 \| Beijing, China
 
 - User Research Center
 - Researched into user's behavior towards a variety of consumer electronics.
@@ -128,11 +134,15 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 
 
+
+
 ## Publications
 
 **Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
 MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
+
+
 
 
 
@@ -155,6 +165,8 @@ Jan 2013 \| Zhejiang, China
 **Beihang University**
 
 Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
+
+
 
 
 
@@ -181,7 +193,7 @@ Humans are trapped in their limited senses. The human vision was relatively narr
 
 **Omnidirectional Observation from an Extra Robotic Neck**
 
-*Conference Publication*
+*AH'18 BEST DEMO AWARD*
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
@@ -192,7 +204,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **Facial Thermal Feedback in Remotely Operated Applications**
 
-*Conference Publication*
+*CHI'18 DEMO*
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
@@ -230,12 +242,13 @@ more at [cv.shenlichao.com/#design](cv.shenlichao.com/#design)
 
 ### Hahaki
 
-*Hahaki* is postcard customizable system for modern cities. It consists of a smartphone application and a printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
+*Hahaki* is a postcard customization system for modern cities. It consists of one smartphone application and one printing machine. In the app, users can choose to edit the content and pin interesting information on the postcards. After customization, users may print them at the print machines placed near the scenic area, and then post. It was selected to "City, Museum, Tokyo" Design Exhibition in Tokyo, Japan, in December 2013.
 
 - Led a group to finish the project.
 - Proposed the concept, and designed the demo, UX and UI of the mobile app and the printer.
 
 [**[PDF](https://issuu.com/lichaoshen/docs/portfolio3.3re/4)**]
+
 
 ### AERO-2013 Racing Car
 
