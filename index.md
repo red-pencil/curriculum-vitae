@@ -75,28 +75,53 @@ Sep 2010 - Jun 2014
 
 
 
-## Experience
 
-### Project Researcher
 
-**Cyber Living Lab** \| Tokyo, Japan
+##  Industrial Experience
 
-Sep 2015 - Jul 2018
+### Product Manager
 
-- [Embodied Media Project](http://www.embodiedmedia.org)
-- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiments, prototypes and applications of relative fields.
+**CM Intelligent Mobility, China Mobile** \| Beijing, China
 
+Jun 2019 - present
+
+- Internet of Vehicle / Connected Car
 
 ### User Research Intern
 
-**Lenovo Research** \| Beijing, China
+**Research and Development, Lenovo** \| Beijing, China
 
 Sep 2013 - Feb 2014
 
 - User Research Center
 - Researched into user's behavior towards a variety of consumer electronics.
 - Developed the preliminary design of the next generation smart devices.
+
+
+
+## Academic Experience
+
+### Research Intern
+
+**[Empathic Computing Lab](http://empathiccomputing.org)**, Bioengineering Institute, University of Auckland \| Auckland, New Zealand
+
+Mar 2019 - Jun 2019
+
+- Developedemote cooperation and existence application on mobile platform.
+- Advised the structure and interaction design of demo and product.
+
+
+### Project Researcher
+
+**[Embodied Media Project](http://www.embodiedmedia.org)**, Keio University \| Tokyo, Japan
+
+Sep 2015 - Jul 2018
+
+- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
+- Develop experiments, prototypes and applications of relative fields.
+
+
+
 
 
 
