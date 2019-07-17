@@ -107,7 +107,7 @@ Sep 2013 - Feb 2014
 
 Mar 2019 - Jun 2019
 
-- Developedemote cooperation and existence application on mobile platform.
+- Developed remote cooperation and existence applications on mobile platform.
 - Advised the structure and interaction design of demo and product.
 
 
