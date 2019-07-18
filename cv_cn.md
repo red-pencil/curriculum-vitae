@@ -57,35 +57,59 @@ Sep 2010 - Jun 2014
 
 - 工业设计
 - 机械工程
+- (优秀毕业生）
 
 
 
 
+## 行业经历
 
-## 经历
+### 产品经理
+
+**中移智行** \| 中国北京
+
+2019/6 至今
+
+- 车联网
+- 智慧交通
+
+### 用户体验实习
+
+**联想研究院** \| 中国北京 
+
+2013/9 - 2014/2
+
+- 用户研究中心
+- 研究⽤⼾对于各种电⼦产品的⾏为习惯；
+- 进⾏下⼀代智能设备的先⾏设计。
+
+
+
+## 学术经历
+
+### 研究员实习
+
+**[Empathic Computing Lab](http://empathiccomputing.org)**, 奥克兰大学 \| 新西兰奥克兰
+
+2018/2 - 2018/7
+
+- 开发远程协作和远程存在的移动应用；
+
+- 提供设计和方案建议，为XR技术商业化原型和产品。
+
 
 ### 项目研究员
 
-**Cyber Living Lab 实验室** \| 日本东京
+[Embodied Media Project](http://www.embodiedmedia.org), 庆应义塾大学 \| 日本东京
 
-Sep 2015 - July 2018
-
-- [Embodied Media Project](http://www.embodiedmedia.org)
+2018/2 - 2018/7
 
 - 研究触觉，虚拟现实，⼈类增强，远程存在等相关领域；
 
 - 进⾏实验，开发原型和应⽤。
 
 
-### 用户体验实习
 
-**联想研究院** \| 中国北京 
-
-Sep 2013 - Feb 2014
-
-- 用户研究中心
-- 研究⽤⼾对各种电⼦产品的⾏为习惯；
-- 进⾏下⼀代智能设备的先⾏设计。
 
 
 ## 技能
@@ -94,7 +118,7 @@ Sep 2013 - Feb 2014
 
 C, C# , JavaScript, Python, HTML, CSS
 
-Unity, Arduino, TeX, Git
+Unity, Arduino, Processing, TeX, Git
 
 ### 工程
 
@@ -108,15 +132,10 @@ Unity, Arduino, TeX, Git
 
 图形软件 (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
 
+### 语言
 
+**中文** - 母语, **英语** - 学术, **日本** - 初级
 
-## 语言
-
-**中文** - 母语
-
-**英语** - 学术
-
-**日本** - 初级
 
 
 
@@ -138,19 +157,19 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 **2018 Augmented Human 国际会议 (AH '18)**
 
-Feb 2018 \| 韩国首尔
+2018/2 \| 韩国首尔
 
 ### 设计类优秀奖
 
 **富阳礼物设计大赛**
 
-Jan 2013 \| 中国浙江
+2013/1 \| 中国浙江
 
 ### 学习优秀奖学金
 
 **北京航空航天大学**
 
-Dec 2013, Dec 2012, Dec 2011 \| 中国北京
+2013/12, 2012/12, 2011/12 \| 中国北京
 
 
 

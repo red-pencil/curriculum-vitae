@@ -8,7 +8,7 @@
 
 Homepage: [shenlichao.com](http://shenlichao.com), [xanadu.shenlichao.com](http://xanadu.shenlichao.com)
 
-Email: <lichao.shen@hotmail.com>
+Email: <lichao.job@hotmamail.com><lichao.shen@hotmail.com>
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
@@ -89,7 +89,7 @@ Jun 2019 - present
 
 ### User Research Intern
 
-**Research and Development, Lenovo** \| Beijing, China
+**Lenovo Research** \| Beijing, China
 
 Sep 2013 - Feb 2014
 
@@ -108,14 +108,14 @@ Sep 2013 - Feb 2014
 Mar 2019 - Jun 2019
 
 - Developed remote cooperation and existence applications on mobile platform.
-- Advised the structure and interaction design of demo and product.
+- Designed and advised the prototypes and products for commercialization of XR technology.
 
 
 ### Project Researcher
 
-**[Embodied Media Project](http://www.embodiedmedia.org)**, Keio University \| Tokyo, Japan
+**[Embodied Media Project](http://www.embodiedmedia.org)**, Graduate School of Media Design, Keio University \| Tokyo, Japan
 
-Sep 2015 - Jul 2018
+Feb 2018 - Jul 2018
 
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
 - Develop experiments, prototypes and applications of relative fields.
@@ -131,7 +131,7 @@ Sep 2015 - Jul 2018
 
 C, C#, JavaScript, Python, HTML, CSS
 
-Unity, Arduino, TeX, Git
+Unity, Arduino, Processing, TeX, Git
 
 ### Engineering
 
