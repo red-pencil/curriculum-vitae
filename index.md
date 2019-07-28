@@ -12,7 +12,7 @@ Email: <lichao.job@hotmamail.com><lichao.shen@hotmail.com>
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
-Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg),  [cv.shenlichao.com/#research](http://cv.shenlichao.com/#research)
+Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), [cv.shenlichao.com/#research](http://cv.shenlichao.com/#research)
 
 
 
@@ -26,7 +26,7 @@ Computer Graphics • Virtual Reality • Mixed Reality
 
 ### Human Enhancement
 
-Cognitive Science  • Neuroscience
+Cognitive Science • Neuroscience
 
 Robotics • Mechanical Engineering
 
@@ -145,15 +145,9 @@ Pencil & Marker Sketch, Gouache Painting, Prototyping
 
 Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
 
+### Languages
 
-
-## Languages
-
-**Chinese** - Native
-
-**English** - Academic
-
-**Japanese** - Elementary
+**Chinese** - Native, **English** - Academic, **Japanese** - Elementary
 
 
 
