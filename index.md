@@ -81,7 +81,7 @@ Sep 2010 - Jun 2014
 
 ### Product Manager
 
-**CM Intelligent Mobility, China Mobile** \| Beijing, China
+**China Mobile Intelligent Mobility** \| Beijing, China
 
 Jun 2019 - present
 
