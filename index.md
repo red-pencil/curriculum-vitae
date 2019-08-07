@@ -20,7 +20,7 @@ Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onk
 
 ### Computer Science
 
-Human-Computer Interaction • Ubiquitous Computing • Interaction Design
+Human-Computer Interaction • Ubiquitous Computing
 
 Computer Graphics • Virtual Reality • Mixed Reality
 
@@ -34,65 +34,59 @@ Robotics • Mechanical Engineering
 
 Interaction Design • User Experience • User Interface
 
-New Media • Industrial Design
+Media Design • Industrial Design
 
 
 
 
 ## Education
 
-### **Master** of Media Design
 
-**Keio University** \| Tokyo, Japan
 
-Sep 2015 - Mar 2018
+### Master
+#### Keio University
+Sep 2015 - Mar 2018 \| Tokyo, Japan
 
 - Human-Computer Interaction
 - Media Design
 
-**Pratt Institute** \| New York, US
+#### Pratt Institute
+Jan 2017 - May 2017 \| New York, US
+- Global Innovation Design (Exchange Study)
 
-Jan 2017 - May 2017
-
-- Design (Exchange Study)
-
-**Royal College of Art & Imperial College London** \| London, UK
-
-Sep 2016 - Dec 2016
-
-- Design (Exchange Study)
+#### Royal College of Art & Imperial College London
+Sep 2016 - Dec 2016  \| London, UK
+- Global Innovation Design (Exchange Study)
 
 
 
-### **Bachelor** of Engineering
 
-**Beihang University** \| Beijing, China
+### Bachelor
 
-Sep 2010 - Jun 2014
+#### Beihang University
+Sep 2010 - Jun 2014 \| Beijing, China
 
 - Industrial Design
 - Mechanical Engineering
-
-
+- GPA;
 
 
 
 ##  Industrial Experience
 
-### Product Manager
+### China Mobile Intelligent Mobility
 
-**China Mobile Intelligent Mobility** \| Beijing, China
-
-Jun 2019 - present
+**Product Manager**
+Jun 2019 - present \| Beijing, China
 
 - Internet of Vehicle / Connected Car
 - In-vehicle electronics
 
-### User Research Intern
 
-**Lenovo Research** \| Beijing, China
+### Lenovo Research
 
-Sep 2013 - Feb 2014
+**User Experience Designer Intern**
+Sep 2013 - Feb 2014 \| Beijing, China
 
 - User Research Center
 - Researched on user's behavior towards a variety of consumer electronics.
@@ -102,27 +96,24 @@ Sep 2013 - Feb 2014
 
 ## Academic Experience
 
-### Research Intern
+### [Empathic Computing Lab](http://empathiccomputing.org)
 
-**[Empathic Computing Lab](http://empathiccomputing.org)**, Bioengineering Institute, University of Auckland \| Auckland, New Zealand
+**Researcher**
+Mar 2019 - Jun 2019 \| Auckland, New Zealand
 
-Mar 2019 - Jun 2019
-
+- Auckland Bioengineering Institute, University of Auckland 
 - Developed remote cooperation and existence applications on mobile platform.
 - Designed and advised the prototypes and products for commercialization of XR technology.
 
 
-### Project Researcher
+### [Embodied Media Project](http://www.embodiedmedia.org)
 
-**[Embodied Media Project](http://www.embodiedmedia.org)**, Graduate School of Media Design, Keio University \| Tokyo, Japan
+**Researcher**
+Feb 2018 - Jul 2018 \| Tokyo, Japan
 
-Feb 2018 - Jul 2018
-
+- KMD Research Institute, Graduate School of Media Design, Keio University 
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
 - Develop experiments, prototypes and applications of relative fields.
-
-
-
 
 
 
@@ -130,21 +121,23 @@ Feb 2018 - Jul 2018
 
 ### Programming
 
-C, C#, JavaScript, Python, HTML, CSS
+C, C#, JavaScript, Python,
 
-Unity, Arduino, Processing, TeX, Git
+HTML, CSS, Git
+
+Unity, Arduino, Processing
 
 ### Engineering
 
 Technical Drawing, Mechanical Machining
 
-Engineering Software (SolidWorks, Pro/ENGINEER, AutoCAD)
+SolidWorks, Pro/ENGINEER, AutoCAD
 
 ### Design
 
-Pencil & Marker Sketch, Gouache Painting, Prototyping
+Sketch, Prototyping
 
-Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
+Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch
 
 ### Languages
 
