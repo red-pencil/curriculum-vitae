@@ -8,7 +8,7 @@
 
 Homepage: [shenlichao.com](http://shenlichao.com), [xanadu.shenlichao.com](http://xanadu.shenlichao.com)
 
-Email: <lichao.job@hotmamail.com><lichao.shen@hotmail.com>
+Email: <lichao.job@hotmail.com>, <lichao.shen@hotmail.com>
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
@@ -86,6 +86,7 @@ Sep 2010 - Jun 2014
 Jun 2019 - present
 
 - Internet of Vehicle / Connected Car
+- In-vehicle electronics
 
 ### User Research Intern
 
@@ -94,7 +95,7 @@ Jun 2019 - present
 Sep 2013 - Feb 2014
 
 - User Research Center
-- Researched into user's behavior towards a variety of consumer electronics.
+- Researched on user's behavior towards a variety of consumer electronics.
 - Developed the preliminary design of the next generation smart devices.
 
 
