@@ -41,34 +41,43 @@ Media Design • Industrial Design
 
 ## Education
 
-
-
 ### Master
-#### Keio University
+**Keio University**
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
-- Human-Computer Interaction
-- Media Design
+- Human-Computer Interaction, Media Design
+- GPA: 3.84/4.33
 
-#### Pratt Institute
+**Pratt Institute**
 Jan 2017 - May 2017 \| New York, US
 - Global Innovation Design (Exchange Study)
 
-#### Royal College of Art & Imperial College London
+**Royal College of Art & Imperial College**
 Sep 2016 - Dec 2016  \| London, UK
+
 - Global Innovation Design (Exchange Study)
 
+
+
+
+>### Master, Keio Unversity
+>
+>- Human-Computer Interaction, Media Design
+>- GPA: 3.84/4.33
+>- Pratt Institute, Jan 2017 - May 2017, Exchange Study
+>- Royal College of Art & Imperial College London, Sep 2016 - Dec 2016, Exchange Study
 
 
 
 ### Bachelor
 
-#### Beihang University
+**Beihang University**
+
 Sep 2010 - Jun 2014 \| Beijing, China
 
 - Industrial Design
 - Mechanical Engineering
-- GPA;
+- GPA: 3.6/4.0 - Outstanding Graduate
 
 
 
@@ -159,21 +168,15 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 ## Awards
 
-### Best Demo Award
-
-**2018 Augmented Human 9th International Conference (AH '18)**
+**Best Demo Award**, 2018 Augmented Human 9th International Conference (AH '18)
 
 Feb 2018 \| Seoul, ROK
 
-### Design Excellent Prize
-
-**"Gifts of Fuyang" Design Competition**
+**Design Excellent Prize**, Gifts of Fuyang" Design Competition
 
 Jan 2013 \| Zhejiang, China
 
-### Scholarship of Academic Performance
-
-**Beihang University**
+**Scholarship of Academic Performance**, Beihang University
 
 Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
 
