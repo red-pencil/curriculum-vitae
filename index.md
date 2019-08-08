@@ -26,9 +26,9 @@ Computer Graphics • Virtual Reality • Mixed Reality
 
 ### Bioengineering
 
-Cognitive Science • Neuroscience
+Ergonomics • Bionics • Cognitive Science • Neuroscience 
 
-Robotics • Mechanical Engineering • ergonomics
+Robotics • Mechanical Engineering
 
 ### Design
 
@@ -68,6 +68,22 @@ Sep 2016 - Dec 2016  \| London, UK
 >- GPA: 3.84/4.33
 >- Pratt Institute, Jan 2017 - May 2017, Exchange Study
 >- Royal College of Art & Imperial College London, Sep 2016 - Dec 2016, Exchange Study
+>
+>
+
+
+
+### Master
+
+**Keio University**
+
+Sep 2015 - Mar 2018 \| Tokyo, Japan
+
+- Human-Computer Interaction, Media Design, GPA: 3.84/4.33
+- Exchange Study at **Pratt Institute**, Jan 2017 - May 2017, 
+- Exchange Study at **Royal College of Art & Imperial College London**, Sep 2016 - Dec 2016
+
+
 
 
 
@@ -110,7 +126,7 @@ Sep 2013 - Feb 2014 \| Beijing, China
 ### [Empathic Computing Lab](http://empathiccomputing.org)
 
 **Researcher**
-Mar 2019 - Jun 2019 \| Auckland, New Zealand
+Mar 2019 - May 2019 \| Auckland, New Zealand
 
 - Auckland Bioengineering Institute, University of Auckland 
 - Developed remote cooperation and existence applications on mobile platform.
