@@ -24,11 +24,11 @@ Human-Computer Interaction • Ubiquitous Computing
 
 Computer Graphics • Virtual Reality • Mixed Reality
 
-### Human Enhancement
+### Bioengineering
 
 Cognitive Science • Neuroscience
 
-Robotics • Mechanical Engineering
+Robotics • Mechanical Engineering • ergonomics
 
 ### Design
 
@@ -37,6 +37,8 @@ Interaction Design • User Experience • User Interface
 Media Design • Industrial Design
 
 
+
+> Wearable, Internet of Things, Internet of Vehicle, Electronics
 
 
 ## Education
