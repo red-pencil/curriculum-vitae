@@ -76,12 +76,31 @@ Sep 2016 - Dec 2016  \| London, UK
 ### Master
 
 **Keio University**
-
 Sep 2015 - Mar 2018 \| Tokyo, Japan
 
-- Human-Computer Interaction, Media Design, GPA: 3.84/4.33
-- Exchange Study at **Pratt Institute**, Jan 2017 - May 2017, 
-- Exchange Study at **Royal College of Art & Imperial College London**, Sep 2016 - Dec 2016
+- Human-Computer Interaction, Media Design
+- GPA: 3.84/4.33
+
+**Pratt Institute** (exchange) 
+Jan 2017 - May 2017  \| Brooklyn, US
+
+**Royal College of Art \& Imperial College London** (exchange)
+Sep 2016 - Dec 2016 \| London, UK
+
+
+
+> ### Master
+>
+> **Keio University**, Sep 2015 - Mar 2018, Human-Computer Interaction, Media Design, GPA: 3.84/4.33
+> Exchange at **Pratt Institute**, Jan 2017 - May 2017, 
+> Exchange at **Royal College of Art & Imperial College London**, Sep 2016 - Dec 2016
+>
+> ### Global Innovation Design
+>
+> **Pratt Institute**,  Jan 2017 - May 2017
+>
+> **Royal College of Art & Imperial College London**, Sep 2016 - Dec 2016
+
 
 
 
@@ -90,11 +109,9 @@ Sep 2015 - Mar 2018 \| Tokyo, Japan
 ### Bachelor
 
 **Beihang University**
-
 Sep 2010 - Jun 2014 \| Beijing, China
 
-- Industrial Design
-- Mechanical Engineering
+- Industrial Design, Mechanical Engineering
 - GPA: 3.6/4.0 - Outstanding Graduate
 
 
@@ -106,9 +123,8 @@ Sep 2010 - Jun 2014 \| Beijing, China
 **Product Manager**
 Jun 2019 - present \| Beijing, China
 
-- Internet of Vehicle / Connected Car
-- In-vehicle electronics
-
+- Researched on internet of vehicle and connected car.
+- Designed, developed and managed the product line of in-vehicle electronics.
 
 ### Lenovo Research
 
