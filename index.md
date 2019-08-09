@@ -206,7 +206,7 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 Feb 2018 \| Seoul, ROK
 
-**Design Excellent Prize**, Gifts of Fuyang" Design Competition
+**Design Excellent Prize**, "Gifts of Fuyang" Design Competition
 
 Jan 2013 \| Zhejiang, China
 
