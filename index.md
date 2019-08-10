@@ -89,6 +89,23 @@ Sep 2016 - Dec 2016 \| London, UK
 
 
 
+
+
+### Master
+
+Sep 2015 - Mar 2018
+
+**Keio University** \| Tokyo, Japan
+
+- Human-Computer Interaction, Media Design
+- GPA: 3.84/4.33
+
+**Pratt Institute** (exchange) \| Brooklyn, US
+
+**Royal College of Art \& Imperial College London** (exchange) \| London, UK
+
+
+
 > ### Master
 >
 > **Keio University**, Sep 2015 - Mar 2018, Human-Computer Interaction, Media Design, GPA: 3.84/4.33
