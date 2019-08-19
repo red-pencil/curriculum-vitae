@@ -142,6 +142,7 @@ Jun 2019 - present \| Beijing, China
 
 - Researched on internet of vehicle and connected car.
 - Designed, developed and managed the product line of in-vehicle electronics.
+- China Mobile has more than 0.9 billion users, making it the world’s largest mobile carrier.
 
 ### Lenovo Research
 
