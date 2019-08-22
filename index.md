@@ -150,7 +150,7 @@ Jun 2019 - present \| Beijing, China
 Sep 2013 - Feb 2014 \| Beijing, China
 
 - User Research Center
-- Researched on user's behavior towards a variety of consumer electronics.
+- Researched on user's behavior towards a variety of consumer electronics, in User Research Center.
 - Developed the preliminary design of the next generation smart devices.
 
 
@@ -163,7 +163,7 @@ Sep 2013 - Feb 2014 \| Beijing, China
 Mar 2019 - May 2019 \| Auckland, New Zealand
 
 - Auckland Bioengineering Institute, University of Auckland 
-- Developed remote cooperation and existence applications on mobile platform.
+- Developed applications of remote cooperation and remote access on mobile platform.
 - Designed and advised the prototypes and products for commercialization of XR technology.
 
 
@@ -173,7 +173,7 @@ Mar 2019 - May 2019 \| Auckland, New Zealand
 Feb 2018 - Jul 2018 \| Tokyo, Japan
 
 - KMD Research Institute, Graduate School of Media Design, Keio University 
-- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
+- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, robotics, etc.
 - Develop experiments, prototypes and applications of relative fields.
 
 
