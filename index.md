@@ -157,26 +157,27 @@ Sep 2013 - Feb 2014 \| Beijing, China
 
 ## Academic Experience
 
-### [Empathic Computing Lab](http://empathiccomputing.org)
+### University of Auckland
 
-**Researcher**
+**Researcher**, [Empathic Computing Lab](http://empathiccomputing.org)
+
 Mar 2019 - May 2019 \| Auckland, New Zealand
 
-- Auckland Bioengineering Institute, University of Auckland 
 - Developed applications of remote cooperation and remote access on mobile platform.
 - Designed and advised the prototypes and products for commercialization of XR technology.
 
 
-### [Embodied Media Project](http://www.embodiedmedia.org)
+### Keio University 
 
-**Researcher**
+**Researcher**, [Embodied Media Project](http://www.embodiedmedia.org)
+
 Feb 2018 - Jul 2018 \| Tokyo, Japan
 
-- KMD Research Institute, Graduate School of Media Design, Keio University 
 - Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, robotics, etc.
 - Develop experiments, prototypes and applications of relative fields.
 
-
+> KMD Research Institute, Graduate School of Media Design, Keio University 
+> Auckland Bioengineering Institute, University of Auckland
 
 ## Skills
 
