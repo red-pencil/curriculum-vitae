@@ -8,7 +8,7 @@
 
 Homepage: [shenlichao.com](http://shenlichao.com), [xanadu.shenlichao.com](http://xanadu.shenlichao.com)
 
-Email: <lichao.job@hotmail.com>, <lichao.shen@hotmail.com>
+Email: <lichao.job@outlook.com>, <lichao.shen@hotmail.com>
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
