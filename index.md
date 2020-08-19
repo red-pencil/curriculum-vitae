@@ -8,7 +8,7 @@
 
 Homepage: [shenlichao.com](http://shenlichao.com), [xanadu.shenlichao.com](http://xanadu.shenlichao.com)
 
-Email: <lichao.job@outlook.com>, <lichao.shen@hotmail.com>
+Email: <lichao.shen@hotmail.com>, <lichao.job@outlook.com>
 
 Desgin Portfolio: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
 
@@ -41,39 +41,65 @@ New Media • Industrial Design
 
 ## Education
 
-### **Master** of Media Design
+### **Master**
 
 **Keio University** \| Tokyo, Japan
 
 Sep 2015 - Mar 2018
 
-- Human-Computer Interaction
-- Media Design
+- Human-Computer Interaction • Media Design
+- Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*
+- Supervisor: Prof. *Kouta Minamizawa*; Co-supervisor: Prof. *Kai Kunze*;
+- English Courses • 3.84 / 4.33
 
 **Pratt Institute** \| New York, US
 
 Jan 2017 - May 2017
 
-- Design (Exchange Study)
+- Global Innovation Design (Exchange Study)
 
 **Royal College of Art & Imperial College London** \| London, UK
 
 Sep 2016 - Dec 2016
 
-- Design (Exchange Study)
+- Global Innovation Design (Exchange Study)
 
 
 
-### **Bachelor** of Engineering
+### **Bachelor**
 
 **Beihang University** \| Beijing, China
 
 Sep 2010 - Jun 2014
 
-- Industrial Design
-- Mechanical Engineering
+- Industrial Design • Mechanical Engineering
+- Outstanding Graduate, GPA: 3.6 / 4.0
 
 
+
+
+## Academic Experience
+
+### University of Auckland
+
+Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)** \| Auckland, New Zealand
+
+Mar 2019 - Jun 2019
+
+- Director: Prof. *Mark Billinghurst*
+- Developed applications of remote collaboration and access on mobile platform.
+- Designed and advised the prototypes for commercialization of XR technology.
+
+
+### Keio University
+
+Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)** \| Tokyo, Japan
+
+Feb 2018 - Jul 2018
+
+- Director: Prof. Kouta Minamizawa
+- Research in the fields of haptic sensation, virtual reality, human enhancement, telexistence, etc.
+- Developed experiments, prototypes and applications for researchprojects.
 
 
 
@@ -81,45 +107,22 @@ Sep 2010 - Jun 2014
 
 ### Product Manager
 
-**China Mobile Intelligent Mobility** \| Beijing, China
+**China Mobile, Shanghai Research** \| Beijing, China
 
 Jun 2019 - present
 
-- Internet of Vehicle / Connected Car
-- In-vehicle electronics
+- Researched on solutions in transportation industry including internet of vehicle, autonomous driving, vehicle to everything (V2X), etc.
+- Managed the product line, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
+- Designed and developed new patented products of on-board electronic, both to business and to customer.
 
-### User Research Intern
+### User Experience Design Intern
 
 **Lenovo Research** \| Beijing, China
 
 Sep 2013 - Feb 2014
 
-- User Research Center
-- Researched on user's behavior towards a variety of consumer electronics.
+- Conducted user research towards various types of consumer electronics, including laptop, tablet, phone, etc., in User Research Center.
 - Developed the preliminary design of the next generation smart devices.
-
-
-
-## Academic Experience
-
-### Research Intern
-
-**[Empathic Computing Lab](http://empathiccomputing.org)**, Bioengineering Institute, University of Auckland \| Auckland, New Zealand
-
-Mar 2019 - Jun 2019
-
-- Developed remote cooperation and existence applications on mobile platform.
-- Designed and advised the prototypes and products for commercialization of XR technology.
-
-
-### Project Researcher
-
-**[Embodied Media Project](http://www.embodiedmedia.org)**, Graduate School of Media Design, Keio University \| Tokyo, Japan
-
-Feb 2018 - Jul 2018
-
-- Conducted research projects in the fields of haptic sensation, virtual reality, human augmentation, telexistence, etc.
-- Develop experiments, prototypes and applications of relative fields.
 
 
 
@@ -130,25 +133,27 @@ Feb 2018 - Jul 2018
 
 ### Programming
 
-C, C#, JavaScript, Python, HTML, CSS
+- C, C#, JavaScript, Python, 
 
-Unity, Arduino, Processing, TeX, Git
+- HTML, CSS, TeX, Git
+
+- Unity, Arduino, Processing, Jupyter
 
 ### Engineering
 
-Technical Drawing, Mechanical Machining
+- Technical Drawing, Mechanical Machining
 
-Engineering Software (SolidWorks, Pro/ENGINEER, AutoCAD)
+- Engineering Software (SolidWorks, Pro/ENGINEER, AutoCAD)
 
 ### Design
 
-Pencil & Marker Sketch, Gouache Painting, Prototyping
+- Pencil & Marker Sketch, Gouache Painting, Prototyping
 
-Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
+- Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
 
 ### Languages
 
-**Chinese** - Native, **English** - Academic, **Japanese** - Elementary
+- **Chinese** - Native, **English** - Academic, **Japanese** - Elementary
 
 
 
@@ -158,7 +163,7 @@ Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grassho
 
 **Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
-MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
+MHD Yamen Saraiji, Roshan Lalintha Peiris, **Lichao Shen**, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
 
 
 
@@ -174,7 +179,7 @@ Feb 2018 \| Seoul, ROK
 
 ### Design Excellent Prize
 
-**"Gifts of Fuyang" Design Competition**
+***Gifts of Fuyang*** **Design Competition**
 
 Jan 2013 \| Zhejiang, China
 
