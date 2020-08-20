@@ -49,8 +49,8 @@ Sep 2015 - Mar 2018
 
 - Human-Computer Interaction • Media Design
 - Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*
-- Supervisor: Prof. *Kouta Minamizawa*; Co-supervisor: Prof. *Kai Kunze*;
-- English Courses • 3.84 / 4.33
+- Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze;
+- English Courses, GPA: 3.84 / 4.33
 
 **Pratt Institute** \| New York, US
 
@@ -86,7 +86,7 @@ Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)** \| A
 
 Mar 2019 - Jun 2019
 
-- Director: Prof. *Mark Billinghurst*
+- Director: Prof. Mark Billinghurst
 - Developed applications of remote collaboration and access on mobile platform.
 - Designed and advised the prototypes for commercialization of XR technology.
 
