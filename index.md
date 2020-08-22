@@ -220,7 +220,7 @@ Humans are trapped in their limited senses. The human vision was relatively narr
 
 Due to the narrow range of motion of the neck and the small visual field of the eyes, the human visual sense is limited in terms of the spatial range. We address this visual limitation by proposing a programmable neck that can leverage the range of motion limits. *Unconstrained Neck*, a head-mounted robotic neck, is a substitution neck system which provides a wider range of motion enabling humans to overcome the physical constraints of the neck. Using this robotic neck, it is also possible to control the visual/motor gain, which allows the user to thus control the range and speed of his effective neck motion or visual motion.
 
-[**[DOI](https://dl.acm.org/citation.cfm?id=3174955)**] . [**[PDF](pdf/a38-shen.pdf)**] . [**[Video](https://youtu.be/xq5xTcrdzXU)**] . [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
+[[**DOI**](https://dl.acm.org/citation.cfm?id=3174955)] . [[**PDF**](pdf/a38-shen.pdf)] . [[**Video**](https://youtu.be/xq5xTcrdzXU)] . [[**Best Demo Award**](http://www.sigah.org/AH2018/gallery)]
 
 
 ### Ambient
