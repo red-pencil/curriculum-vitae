@@ -43,24 +43,23 @@ New Media • Industrial Design
 
 ### **Master**
 
-**Keio University** \| Tokyo, Japan
+**Keio University**
 
-Sep 2015 - Mar 2018
+Sep 2015 - Mar 2018 \| Tokyo, Japan
 
 - Human-Computer Interaction • Media Design
 - Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*
 - Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze;
 - English Courses, GPA: 3.84 / 4.33
 
-**Pratt Institute** \| New York, US
 
-Jan 2017 - May 2017
+**Pratt Institute** 
 
-- Global Innovation Design (Exchange Study)
+Jan 2017 - May 2017 \| New York, US
 
-**Royal College of Art & Imperial College London** \| London, UK
+**Royal College of Art & Imperial College London**
 
-Sep 2016 - Dec 2016
+Sep 2016 - Dec 2016 \| London, UK
 
 - Global Innovation Design (Exchange Study)
 
@@ -68,9 +67,9 @@ Sep 2016 - Dec 2016
 
 ### **Bachelor**
 
-**Beihang University** \| Beijing, China
+**Beihang University**
 
-Sep 2010 - Jun 2014
+Sep 2010 - Jun 2014 \| Beijing, China
 
 - Industrial Design • Mechanical Engineering
 - Outstanding Graduate, GPA: 3.6 / 4.0
@@ -82,9 +81,9 @@ Sep 2010 - Jun 2014
 
 ### University of Auckland
 
-Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)** \| Auckland, New Zealand
+Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)**
 
-Mar 2019 - Jun 2019
+Mar 2019 - Jun 2019 \| Auckland, New Zealand
 
 - Director: Prof. Mark Billinghurst
 - Developed applications of remote collaboration and access on mobile platform.
@@ -93,9 +92,9 @@ Mar 2019 - Jun 2019
 
 ### Keio University
 
-Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)** \| Tokyo, Japan
+Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)**
 
-Feb 2018 - Jul 2018
+Feb 2018 - Jul 2018 \| Tokyo, Japan
 
 - Director: Prof. Kouta Minamizawa
 - Research in the fields of haptic sensation, virtual reality, human enhancement, telexistence, etc.
@@ -107,9 +106,9 @@ Feb 2018 - Jul 2018
 
 ### Product Manager
 
-**China Mobile, Shanghai Research** \| Beijing, China
+**China Mobile, Shanghai Research**
 
-Jun 2019 - present
+Jun 2019 - present \| Beijing, China
 
 - Researched on solutions in transportation industry including internet of vehicle, autonomous driving, vehicle to everything (V2X), etc.
 - Managed the product line, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
@@ -117,9 +116,9 @@ Jun 2019 - present
 
 ### User Experience Design Intern
 
-**Lenovo Research** \| Beijing, China
+**Lenovo Research**
 
-Sep 2013 - Feb 2014
+Sep 2013 - Feb 2014 \| Beijing, China
 
 - Conducted user research towards various types of consumer electronics, including laptop, tablet, phone, etc., in User Research Center.
 - Developed the preliminary design of the next generation smart devices.

@@ -21,12 +21,14 @@ Master.
 - Supervisor: Prof. Kouta Minamizawa, Co-supervisor: Prof. Kai Kunze
 - English Courses, GPA: 3.84 / 4.33
 
+%
 
-Master Program. (Global Inovation Design)
+Master Program (Global Inovation Design).
 2017. Pratt Institute.
 2016. Royal College of Art.
 2016. Imperial College London.
 
+%
 
 Bachelor.
 2014. Beihang University.
@@ -42,6 +44,7 @@ Research Intern.
 - Developed applications of remote collaboration and access on mobile platform.
 - Designed and advised the prototypes for commercialization of XR technology.
 
+%
 
 Research Intern.
 2018. Keio University, Embodied Media Project.
@@ -58,6 +61,7 @@ Product Manager.
 - Managed the product line, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
 - Designed and developed new patented products of on-board electronic, both to business and to customer.
 
+%
 
 User Experience Design Intern.
 2013 - 2014. Lenovo Research.
