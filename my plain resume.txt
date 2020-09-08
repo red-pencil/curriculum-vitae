@@ -40,7 +40,7 @@ Bachelor.
 
 Research Intern.
 2019. University of Auckland, Empathic Computing Lab.
-- Director: Prof. Mark Billinghurst
+- Director: Prof. Mark Billinghurst.
 - Developed applications of remote collaboration and access on mobile platform.
 - Designed and advised the prototypes for commercialization of XR technology.
 
@@ -48,9 +48,9 @@ Research Intern.
 
 Research Intern.
 2018. Keio University, Embodied Media Project.
-- Director: Prof. Kouta Minamizawa
-- Research in the fields of haptic sensation, virtual reality, human enhancement, telexistence, etc.
-- Developed experiments, prototypes and applications for researchprojects.
+- Director: Prof. Kouta Minamizawa.
+- Research in the fields of haptic sensation, virtual reality, human enhancement, telepresence, etc.
+- Developed experiments, prototypes and applications for research projects.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### WORK EXPERIENCE ###
@@ -100,6 +100,6 @@ Design:
 - Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch
 
 Languages:
-- Chinese (Native), English (Academic), Japanese (Elementary)
+- English (Proficient), Japanese (Elementary), Chinese (Native)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
