@@ -71,15 +71,11 @@ User Experience Design Intern.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### PUBLICATIONS ###
 
-2020. [SUI '20]. Visuomotor Influence of Attached Robotic Neck Augmentation. Lichao Shen, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. In ACM Symposium on Spatial User Interaction 2020 (SUI '20). # to appear
-
-2018. [CHI EA '18]. Ambient: Facial Thermal Feedback in Remotely Operated Applications. MHD Yamen Saraiji, Roshan Lalintha Peiris,  Kouta Minamizawa, and Susumu Tachi. In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA '18). DOI: https://doi.org/10.1145/3170427.3186483
-
-2018. [AH '18]. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. Lichao Shen, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. In Proceedings of the 9th Augmented Human International Conference (AH '18). DOI: https://doi.org/10.1145/3174910.3174955
-# Best Demo Award (Top1)
+2020. Visuomotor Influence of Attached Robotic Neck Augmentation.  [SUI '20]
+2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck.  [AH '18] # Best Demo Award
+2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  [CHI EA '18]
 
 2020. CN Patent. A System of Vehicle to Everything. #pending
-
 2020. CN Patent. An On-Board Project Device. #pending
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,7 +98,9 @@ Engineering:
 
 Design:
 - Pencil & Marker Sketch, Gouache Painting, Prototyping
-- Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch
+- Photoshop, Illustrator, Premiere, 3Ds Max
+- Rhinoceros, Grasshopper, KeyShot, V-Ray
+- Sketch
 
 Languages:
 - English (Proficient), Japanese (Elementary), Chinese (Native)
