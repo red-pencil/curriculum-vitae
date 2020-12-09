@@ -38,6 +38,12 @@ Bachelor.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### RESEARCH EXPERIENCE ###
 
+Research Intern. 
+2020. Rochester Institute of Technology, Altered Reality Group.
+- Director: Prof. Roshan Peiris.
+- Finalized the user study of thermal sensation and visuomotor research.
+
+
 Research Intern.
 2019. University of Auckland, Empathic Computing Lab.
 - Director: Prof. Mark Billinghurst.
@@ -71,22 +77,35 @@ User Experience Design Intern.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### PUBLICATIONS ###
 
-2020. [SUI '20]. Visuomotor Influence of Attached Robotic Neck Augmentation. Lichao Shen, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. In ACM Symposium on Spatial User Interaction 2020 (SUI '20). # to appear
+2020. [SUI '20]. Visuomotor Influence of Attached Robotic Neck Augmentation. Lichao Shen, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. In Symposium on Spatial User Interaction (SUI '20). DOI:https://doi.org/10.1145/3385959.3418460
 
 2018. [CHI EA '18]. Ambient: Facial Thermal Feedback in Remotely Operated Applications. MHD Yamen Saraiji, Roshan Lalintha Peiris,  Kouta Minamizawa, and Susumu Tachi. In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA '18). DOI: https://doi.org/10.1145/3170427.3186483
 
 2018. [AH '18]. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. Lichao Shen, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. In Proceedings of the 9th Augmented Human International Conference (AH '18). DOI: https://doi.org/10.1145/3174910.3174955
-# Best Demo Award (Top1)
+[Best Demo Award (Top1)]
 
-2020. CN Patent. A System of Vehicle to Everything. #pending
+2020. CN Patent. A System of Vehicle to Everything. [accepted]
 
-2020. CN Patent. An On-Board Project Device. #pending
+2020. CN Patent. An On-Board Project Device. [pending]
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### AWARDS ###
 
-2018. Best Demo Award. Augmented Human 9th International Conference (AH '18).
-2013. Design Excellent Prize. Gifts of Fuyang Design Competition.
+2018. Best Demo Award, Augmented Human 9th International Conference (AH '18).
+2013. Design Excellent Prize, Gifts of Fuyang Design Competition.
+
+-----
+
+2013. Finalist, Red Dot Design Award.
+2011. Second Prize, Fengru Cup Student Innovation Competition.
+
+2014. Outstanding Graduate.
+2013. Outstanding Student Leader.
+2011. Merit Student.
+
+2013. Scholarship of Academic Performance(successive 3 years).
+2013. Scholarship of Social Duty.
+2011. Scholarship of Science and Technology Competition.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### SKILLS ###
