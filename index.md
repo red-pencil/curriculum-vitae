@@ -45,21 +45,22 @@ New Media • Industrial Design
 
 **Keio University**
 
-Sep 2015 - Mar 2018 \| Tokyo, Japan
+Sep 2015 - Mar 2018. Tokyo, Japan.
 
-- Human-Computer Interaction • Media Design
-- Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*
-- Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze;
-- English Courses, GPA: 3.84 / 4.33
-
+- Human-Computer Interaction, Graudate School of Media Design.
+- Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification.*
+- Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze.
+- English Courses, GPA: 3.84 / 4.33.
 
 **Pratt Institute** 
 
-Jan 2017 - May 2017 \| New York, US
+Jan 2017 - May 2017. Brooklyn, US.
+
+- Global Innovation Design (Exchange Study)
 
 **Royal College of Art & Imperial College London**
 
-Sep 2016 - Dec 2016 \| London, UK
+Sep 2016 - Dec 2016. London, UK.
 
 - Global Innovation Design (Exchange Study)
 
@@ -69,9 +70,9 @@ Sep 2016 - Dec 2016 \| London, UK
 
 **Beihang University**
 
-Sep 2010 - Jun 2014 \| Beijing, China
+Sep 2010 - Jun 2014. Beijing, China.
 
-- Industrial Design • Mechanical Engineering
+- Industrial Design, School of Mechanical Engineering
 - Outstanding Graduate, GPA: 3.6 / 4.0
 
 
@@ -79,13 +80,22 @@ Sep 2010 - Jun 2014 \| Beijing, China
 
 ## Academic Experience
 
+### Rochester Intitute of Technology
+
+Research Intern, Altered Reality Group.
+
+Jul 2020 - Nov 2020. Remote.
+
+- Director: Prof. Roshan Peiris.
+- 
+
 ### University of Auckland
 
 Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)**
 
-Mar 2019 - Jun 2019 \| Auckland, New Zealand
+Mar 2019 - Jun 2019. Auckland, New Zealand.
 
-- Director: Prof. Mark Billinghurst
+- Director: Prof. Mark Billinghurst.
 - Developed applications of remote collaboration and access on mobile platform.
 - Designed and advised the prototypes for commercialization of XR technology.
 
@@ -94,9 +104,9 @@ Mar 2019 - Jun 2019 \| Auckland, New Zealand
 
 Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)**
 
-Feb 2018 - Jul 2018 \| Tokyo, Japan
+Feb 2018 - Jul 2018. Tokyo, Japan.
 
-- Director: Prof. Kouta Minamizawa
+- Director: Prof. Kouta Minamizawa.
 - Research in the fields of haptic sensation, virtual reality, human enhancement, telexistence, etc.
 - Developed experiments, prototypes and applications for researchprojects.
 
@@ -104,21 +114,21 @@ Feb 2018 - Jul 2018 \| Tokyo, Japan
 
 ##  Industrial Experience
 
-### Product Manager
+### China Mobile Shanghai Research
 
-**China Mobile, Shanghai Research**
+**Product Manager**
 
-Jun 2019 - present \| Beijing, China
+Jun 2019 - present. Beijing, China.
 
 - Researched on solutions in transportation industry including internet of vehicle, autonomous driving, vehicle to everything (V2X), etc.
 - Managed the product line, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
 - Designed and developed new patented products of on-board electronic, both to business and to customer.
 
-### User Experience Design Intern
+### Lenovo Research
 
-**Lenovo Research**
+**User Experience Design Intern**
 
-Sep 2013 - Feb 2014 \| Beijing, China
+Sep 2013 - Feb 2014. Beijing, China.
 
 - Conducted user research towards various types of consumer electronics, including laptop, tablet, phone, etc., in User Research Center.
 - Developed the preliminary design of the next generation smart devices.
@@ -152,19 +162,25 @@ Sep 2013 - Feb 2014 \| Beijing, China
 
 ### Languages
 
-- **Chinese** - Native, **English** - Academic, **Japanese** - Elementary
+- Chinese (Native), English (Proficient), Japanese (Elementary)
 
-
-
-
+  
 
 ## Publications
 
-**Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
+**Lichao Shen**, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. 2020. Visuomotor Influence of Attached Robotic Neck Augmentation. In*Symposium on Spatial User Interaction* *(**SUI '20**). Association for Computing Machinery, New York, NY, USA, Article 14, 1–10. DOI:https://doi.org/10.1145/3385959.3418460*
 
 MHD Yamen Saraiji, Roshan Lalintha Peiris, **Lichao Shen**, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
 
+**Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
+## Patents
+
+CN Patent. A System of Vehicle to Everything.  (accepted)
+
+CN Patent. An On-Board Project Device. (pending)
+
+## Exhibitions
 
 
 
@@ -226,7 +242,7 @@ Due to the narrow range of motion of the neck and the small visual field of the 
 
 **Facial Thermal Feedback in Remotely Operated Applications**
 
-*CHI'18 DEMO*
+*CHI'18 EA*
 
 Facial thermoreception plays an important role in mediating surrounding ambient and direct feeling of temperature and touch, enhancing our subjective experience of presence. Such sensory modality has not been well explored in the field of telepresence and telexistence. We present *Ambient*, an enhanced experience of remote presence that consists of a fully facial thermal feedback system combined with the first person view of telexistence systems. Here, we present an overview of the design and implementation of Ambient, along with scenarios envisioned for social and intimate applications.
 
@@ -235,7 +251,9 @@ Facial thermoreception plays an important role in mediating surrounding ambient 
 
 ### Eye-in-Hand
 
-**"Snail Sight", Vision Oriented by Hands, Observe Dual Scenes Simultaneously**
+**"Snail Sight", Simultaneous Observation of Dual Scenes**
+
+*Work in Progress*
 
 In natural condition, human eyes receive almost the same visual stimulus, but that each eye registers different content could lead to new visual experience. We present a wearable device that provides two separate visual capture at the position of both hands, i.e., upper limb is utilized to control the orientation of vision. The whole system blends the two image sources avoiding the binocular rivalry, and thus enables the user to observe on two different visual information simultaneously. It improves the flexibility of vision orienting, and alters the visuomotor coordination drastically. We then examine user's adaptability to the split vision and the by-product sickness.
 
@@ -243,6 +261,8 @@ In natural condition, human eyes receive almost the same visual stimulus, but th
 ### Bug View
 
 **"Being a Spider", Telexistence from Human to a Spider Robot**
+
+*Course Work*
 
 Existing telepresence and telexistence research focus on humanoid and duplicating human sensation. Different from those, *Bug View* focus on mapping the human bodily consciousness to a non-human subject with totally different body schema, and here it is a spider robot. Its proposal is to provide an immersive experience of "being a spider", and smooth operation of the robot. The human-robot mapping consists of sensory mapping and kinematic mapping. We provide several feasible methods and build prototypes. Then we plan to conduct the experiment to find out the best way to provide the highest degree of presence. At least, the potential application of this kind of technology is discussed.
 
