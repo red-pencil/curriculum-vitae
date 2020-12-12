@@ -38,8 +38,9 @@ New Media • Industrial Design
 
 
 
-
 ## Education
+
+
 
 ### **Master**
 
@@ -77,17 +78,20 @@ Sep 2010 - Jun 2014. Beijing, China.
 
 
 
+## Research Experience
 
-## Academic Experience
+
 
 ### Rochester Intitute of Technology
 
-Research Intern, Altered Reality Group.
+Research Intern, Altered Reality Group. (Remote.)
 
 Jul 2020 - Nov 2020. Remote.
 
 - Director: Prof. Roshan Peiris.
-- 
+- Finalized the user study of thermal sensation and visuomotor research.
+
+
 
 ### University of Auckland
 
@@ -100,6 +104,8 @@ Mar 2019 - Jun 2019. Auckland, New Zealand.
 - Designed and advised the prototypes for commercialization of XR technology.
 
 
+
+
 ### Keio University
 
 Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)**
@@ -108,11 +114,13 @@ Feb 2018 - Jul 2018. Tokyo, Japan.
 
 - Director: Prof. Kouta Minamizawa.
 - Research in the fields of haptic sensation, virtual reality, human enhancement, telexistence, etc.
-- Developed experiments, prototypes and applications for researchprojects.
+- Developed experiments, prototypes and applications for research projects.
 
 
 
-##  Industrial Experience
+##  Professional Experience
+
+
 
 ### China Mobile Shanghai Research
 
@@ -123,6 +131,8 @@ Jun 2019 - present. Beijing, China.
 - Researched on solutions in transportation industry including internet of vehicle, autonomous driving, vehicle to everything (V2X), etc.
 - Managed the product line, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
 - Designed and developed new patented products of on-board electronic, both to business and to customer.
+
+
 
 ### Lenovo Research
 
@@ -135,10 +145,9 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 
 
-
-
-
 ## Skills
+
+
 
 ### Programming
 
@@ -164,27 +173,45 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 - Chinese (Native), English (Proficient), Japanese (Elementary)
 
-  
+
 
 ## Publications
 
+
+
 **Lichao Shen**, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. 2020. Visuomotor Influence of Attached Robotic Neck Augmentation. In*Symposium on Spatial User Interaction* *(**SUI '20**). Association for Computing Machinery, New York, NY, USA, Article 14, 1–10. DOI:https://doi.org/10.1145/3385959.3418460*
+
+
 
 MHD Yamen Saraiji, Roshan Lalintha Peiris, **Lichao Shen**, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
 
+
+
 **Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
+
+
 ## Patents
+
+
 
 CN Patent. A System of Vehicle to Everything.  (accepted)
 
 CN Patent. An On-Board Project Device. (pending)
 
+
+
 ## Exhibitions
 
 
 
+
+
+
+
 ## Awards
+
+
 
 ### Best Demo Award
 
