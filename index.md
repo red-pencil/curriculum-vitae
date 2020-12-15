@@ -18,11 +18,13 @@ Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onk
 
 ## Fields of Interest
 
-### Computer Science
+### Computer Science and Engineering
 
-Human-Computer Interaction • Ubiquitous Computing • Interaction Design
+Human-Computer Interaction • User Interface
 
-Computer Graphics • Virtual Reality • Mixed Reality
+Virtual Reality • Mixed Reality • Haptics • Wearable Computing
+
+Brain-Computer Interface • Skin and Musle Interface 
 
 ### Human Enhancement
 
@@ -32,17 +34,15 @@ Robotics • Mechanical Engineering
 
 ### Design
 
-Interaction Design • User Experience • User Interface
+Interaction Design • User Experience
 
-New Media • Industrial Design
+Media Art • Industrial Design
 
 
 
 ## Education
 
-
-
-### **Master**
+### Master
 
 **Keio University**
 
@@ -57,36 +57,34 @@ Sep 2015 - Mar 2018. Tokyo, Japan.
 
 Jan 2017 - May 2017. Brooklyn, US.
 
-- Global Innovation Design (Exchange Study)
+- Global Innovation Design. (Exchange Study.)
 
 **Royal College of Art & Imperial College London**
 
 Sep 2016 - Dec 2016. London, UK.
 
-- Global Innovation Design (Exchange Study)
+- Global Innovation Design. (Exchange Study.)
 
 
 
-### **Bachelor**
+### Bachelor
 
 **Beihang University**
 
 Sep 2010 - Jun 2014. Beijing, China.
 
-- Industrial Design, School of Mechanical Engineering
-- Outstanding Graduate, GPA: 3.6 / 4.0
+- Industrial Design, School of Mechanical Engineering.
+- Outstanding Graduate, GPA: 3.6 / 4.0.
 
 
 
 ## Research Experience
 
-
-
 ### Rochester Intitute of Technology
 
-Research Intern, Altered Reality Group. (Remote.)
+Research Intern, Altered Reality Group.
 
-Jul 2020 - Nov 2020. Remote.
+Jul 2020 - Nov 2020. (Remote.)
 
 - Director: Prof. Roshan Peiris.
 - Finalized the user study of thermal sensation and visuomotor research.
@@ -95,7 +93,7 @@ Jul 2020 - Nov 2020. Remote.
 
 ### University of Auckland
 
-Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)**
+Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)**.
 
 Mar 2019 - Jun 2019. Auckland, New Zealand.
 
@@ -108,7 +106,7 @@ Mar 2019 - Jun 2019. Auckland, New Zealand.
 
 ### Keio University
 
-Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)**
+Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)*.
 
 Feb 2018 - Jul 2018. Tokyo, Japan.
 
@@ -120,11 +118,9 @@ Feb 2018 - Jul 2018. Tokyo, Japan.
 
 ##  Professional Experience
 
-
-
 ### China Mobile Shanghai Research
 
-**Product Manager**
+**Product Manager**.
 
 Jun 2019 - present. Beijing, China.
 
@@ -136,7 +132,7 @@ Jun 2019 - present. Beijing, China.
 
 ### Lenovo Research
 
-**User Experience Design Intern**
+**User Experience Design Intern**.
 
 Sep 2013 - Feb 2014. Beijing, China.
 
@@ -145,13 +141,58 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 
 
+## Publications
+
+- **Lichao Shen**, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. 2020. Visuomotor Influence of Attached Robotic Neck Augmentation. In*Symposium on Spatial User Interaction* *([**SUI '20**](https://sui.acm.org/2020)). Association for Computing Machinery, New York, NY, USA, Article 14, 1–10. DOI:https://doi.org/10.1145/3385959.3418460*
+
+- MHD Yamen Saraiji, Roshan Lalintha Peiris, **Lichao Shen**, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* *([**CHI EA '18**](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483*
+
+- **Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* *([**AH '18**](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955* 
+  - [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
+
+
+
+## Patents
+
+- CN Patent. A System of Vehicle to Everything. (accepted)
+- CN Patent. An On-Board Project Device. (pending)
+
+
+
+
+## Exhibitions
+
+- Auto China 2014, 13th Beijing International Vehicle Exhibition. Work: AERO-2013 Racing Car.
+- *City Museum Tokyo* Design Show. Work: Hahaki Postcard System.
+
+
+
+
+## Awards
+
+- Best Demo Award, 2018 Augmented Human 9th International Conference (AH '18). 2018
+- Design Excellent Prize, *Gifts of Fuyang* Design Competition. 2013.
+- Finalist, Red Dot Design Award. 2013.
+- Second Prize, Fengru Cup Student Innovation Competition. 2011.
+- Outstanding Graduate. 2014.
+- Outstanding Student Leader. 2013.
+- Merit Student. 2011.
+
+
+
+## Scholarship
+
+- Scholarship of Academic Performance, Beihang University. 2011-2013.
+- Scholarship of Social Duty. 2013.
+- Scholarship of Science and Technology Competition. 2011.
+
+
+
 ## Skills
-
-
 
 ### Programming
 
-- C, C#, JavaScript, Python, 
+- C, C#, JavaScript, Python
 
 - HTML, CSS, TeX, Git
 
@@ -159,83 +200,22 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 ### Engineering
 
-- Technical Drawing, Mechanical Machining
+- Technical Drawing, Mechine Processing, Mechanial Design (SolidWorks, Pro/ENGINEER, AutoCAD)
 
-- Engineering Software (SolidWorks, Pro/ENGINEER, AutoCAD)
 
 ### Design
 
-- Pencil & Marker Sketch, Gouache Painting, Prototyping
+- Sketch, Paint, Graphical Editing(Photoshop, Illustrator, Premiere, Sketch)
+- Prototyping, Fabrication (3D printer, laser cutter, wood, metal, plastic)
+- 3D modeling, Rendering (3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray)
 
-- Graphic Software (Photoshop, Illustrator, Premiere, 3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray, Sketch)
+### Language
 
-### Languages
-
-- Chinese (Native), English (Proficient), Japanese (Elementary)
-
-
-
-## Publications
+- Chinese (Native)
+- English (Proficient)
+- Japanese (Elementary)
 
 
-
-**Lichao Shen**, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. 2020. Visuomotor Influence of Attached Robotic Neck Augmentation. In*Symposium on Spatial User Interaction* *(**SUI '20**). Association for Computing Machinery, New York, NY, USA, Article 14, 1–10. DOI:https://doi.org/10.1145/3385959.3418460*
-
-
-
-MHD Yamen Saraiji, Roshan Lalintha Peiris, **Lichao Shen**, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
-
-
-
-**Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
-
-
-
-## Patents
-
-
-
-CN Patent. A System of Vehicle to Everything.  (accepted)
-
-CN Patent. An On-Board Project Device. (pending)
-
-
-
-## Exhibitions
-
-
-
-
-
-
-
-## Awards
-
-
-
-### Best Demo Award
-
-**2018 Augmented Human 9th International Conference (AH '18)**
-
-Feb 2018 \| Seoul, ROK
-
-### Design Excellent Prize
-
-***Gifts of Fuyang*** **Design Competition**
-
-Jan 2013 \| Zhejiang, China
-
-### Scholarship of Academic Performance
-
-**Beihang University**
-
-Dec 2013, Dec 2012, Dec 2011 \| Beijing, China
-
-
-
-
-
-***
 
 ## Research Projects
 
