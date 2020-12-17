@@ -75,7 +75,7 @@ Sep 2010 - Jun 2014. Beijing, China.
 
 ### Rochester Intitute of Technology
 
-Research Intern, [Altered Reality Group](https://www.rit.edu/directory/rxpics-roshan-peiris).
+**Research Intern**, [Altered Reality Group](https://www.rit.edu/directory/rxpics-roshan-peiris).
 
 Jul 2020 - Nov 2020. (Remotely.)
 
@@ -86,7 +86,7 @@ Jul 2020 - Nov 2020. (Remotely.)
 
 ### University of Auckland
 
-Research Intern, [Empathic Computing Lab](http://empathiccomputing.org).
+**Research Intern**, [Empathic Computing Lab](http://empathiccomputing.org).
 
 Mar 2019 - Jun 2019. Auckland, New Zealand.
 
@@ -100,7 +100,7 @@ Mar 2019 - Jun 2019. Auckland, New Zealand.
 
 ### Keio University
 
-Research Intern, [Embodied Media Project](http://www.embodiedmedia.org).
+**Research Intern**, [Embodied Media Project](http://www.embodiedmedia.org).
 
 Feb 2018 - Jul 2018. Tokyo, Japan.
 
@@ -174,7 +174,7 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 
 
-## Scholarship
+## Scholarships
 
 - Scholarship of Academic Performance, Beihang University. 2011-2013.
 - Scholarship of Social Duty. 2013.
