@@ -22,7 +22,7 @@ Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onk
 
 Human-Computer Interaction • User Interface
 
-Virtual Reality • Mixed Reality • Haptics • Wearable Computing
+Virtual Reality • Mixed Reality  • Wearable Computing • Haptics
 
 Brain-Computer Interface • Skin and Musle Interface 
 
@@ -30,13 +30,13 @@ Brain-Computer Interface • Skin and Musle Interface
 
 Cognitive Science • Neuroscience
 
-Robotics • Mechanical Engineering
+Mechanical Engineering • Robotics
 
 ### Design
 
 Interaction Design • User Experience
 
-Media Art • Industrial Design
+Industrial Design • Media Art
 
 
 
@@ -49,21 +49,21 @@ Media Art • Industrial Design
 Sep 2015 - Mar 2018. Tokyo, Japan.
 
 - Human-Computer Interaction, Graudate School of Media Design.
+- English Instruction, GPA: 3.84 / 4.33.
 - Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification.*
 - Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze.
-- English Courses, GPA: 3.84 / 4.33.
 
 **Pratt Institute** 
 
 Jan 2017 - May 2017. Brooklyn, US.
 
-- Global Innovation Design. (Exchange Study.)
+- Global Innovation Design, School of Design. (Exchange Study.)
 
 **Royal College of Art & Imperial College London**
 
 Sep 2016 - Dec 2016. London, UK.
 
-- Global Innovation Design. (Exchange Study.)
+- Global Innovation Design, School of Design.  (Exchange Study.)
 
 
 
@@ -84,7 +84,7 @@ Sep 2010 - Jun 2014. Beijing, China.
 
 Research Intern, Altered Reality Group.
 
-Jul 2020 - Nov 2020. (Remote.)
+Jul 2020 - Nov 2020. (Remotely.)
 
 - Director: Prof. Roshan Peiris.
 - Finalized the user study of thermal sensation and visuomotor research.
@@ -93,26 +93,27 @@ Jul 2020 - Nov 2020. (Remote.)
 
 ### University of Auckland
 
-Research Intern, **[Empathic Computing Lab](http://empathiccomputing.org)**.
+Research Intern, [Empathic Computing Lab](http://empathiccomputing.org).
 
 Mar 2019 - Jun 2019. Auckland, New Zealand.
 
 - Director: Prof. Mark Billinghurst.
-- Developed applications of remote collaboration and access on mobile platform.
-- Designed and advised the prototypes for commercialization of XR technology.
+- Developed applications of remote collaboration and access on standalone mobile platform.
+- Advised, designed and fabricated the prototypes for commercialization of remoto collaboration and XR technology.
+- Explored on new interfaces including brain-computer interfaces.
 
 
 
 
 ### Keio University
 
-Research Intern, **[Embodied Media Project](http://www.embodiedmedia.org)*.
+Research Intern, [Embodied Media Project](http://www.embodiedmedia.org).
 
 Feb 2018 - Jul 2018. Tokyo, Japan.
 
 - Director: Prof. Kouta Minamizawa.
-- Research in the fields of haptic sensation, virtual reality, human enhancement, telexistence, etc.
-- Developed experiments, prototypes and applications for research projects.
+- Research on themes of haptic design, telexistence, virtual reality, and sensory augmentation.
+- Developed experiments, prototypes and applications with technologies including VR/AR, EEG, EMG, EMS, eye-tracking and wearable computing.
 
 
 
@@ -124,9 +125,9 @@ Feb 2018 - Jul 2018. Tokyo, Japan.
 
 Jun 2019 - present. Beijing, China.
 
-- Researched on solutions in transportation industry including internet of vehicle, autonomous driving, vehicle to everything (V2X), etc.
-- Managed the product line, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
-- Designed and developed new patented products of on-board electronic, both to business and to customer.
+- Researched on solutions in communication and information technology, and transportation industry fields including internet of vehicle, autonomous driving, and vehicle to everything (V2X).
+- Managed the product line of on-board electronics, and engaged in the process of business analysis, design refinement, factory manufacture, and software development.
+- Designed, developed, and patented new products and applications, to business and to customer.
 
 
 
@@ -162,7 +163,7 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 ## Exhibitions
 
-- Auto China 2014, 13th Beijing International Vehicle Exhibition. Work: AERO-2013 Racing Car.
+- Auto China 2014, 13th Beijing International Vehicle Exhibition. Work: AERO Racing Car.
 - *City Museum Tokyo* Design Show. Work: Hahaki Postcard System.
 
 
@@ -205,7 +206,7 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 ### Design
 
-- Sketch, Paint, Graphical Editing(Photoshop, Illustrator, Premiere, Sketch)
+- Sketch, Paint, Graphical Editing (Photoshop, Illustrator, Premiere, Sketch)
 - Prototyping, Fabrication (3D printer, laser cutter, wood, metal, plastic)
 - 3D modeling, Rendering (3Ds Max, Rhinoceros, Grasshopper, KeyShot, V-Ray)
 
