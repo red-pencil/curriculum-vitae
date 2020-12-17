@@ -22,7 +22,7 @@ Project Video: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onk
 
 Human-Computer Interaction • User Interface
 
-Virtual Reality • Mixed Reality  • Wearable Computing • Haptics
+Virtual Reality • Mixed Reality • Wearable Computing • Haptics
 
 Brain-Computer Interface • Skin and Musle Interface 
 
