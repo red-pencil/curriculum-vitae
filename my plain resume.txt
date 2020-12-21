@@ -43,20 +43,22 @@ Research Intern.
 - Director: Prof. Roshan Peiris.
 - Finalized the user study of thermal sensation and visuomotor research.
 
+%
 
 Research Intern.
 2019. University of Auckland, Empathic Computing Lab.
 - Director: Prof. Mark Billinghurst.
-- Developed applications of remote collaboration and access on mobile platform.
-- Designed and advised the prototypes for commercialization of XR technology.
+- Developed applications of remote collaboration and access on standalone mobile platform.
+- Advised, designed and fabricate the prototypes for commercialization of XR technologies.
+- Explored on new interfaces with AR goggles, machine learning, and brain-computer interfaces.
 
 %
 
 Research Intern.
 2018. Keio University, Embodied Media Project.
 - Director: Prof. Kouta Minamizawa.
-- Research in the fields of haptic sensation, virtual reality, human enhancement, telepresence, etc.
-- Developed experiments, prototypes and applications for research projects.
+- Research in the fields of haptic sensation, telexistence, virtual reality, and sensory augmentation.
+- Developed experiments, prototypes and applications with technologies including VR/AR, EEG, EMG, eye-tracking, and wearable computing.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### WORK EXPERIENCE ###
@@ -88,8 +90,8 @@ User Experience Design Intern.
 ### SHORT PUBLICATIONS ###
 
 2020. Visuomotor Influence of Attached Robotic Neck Augmentation. [SUI '20]
-2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck.  [AH '18] [Best Demo Award]
-2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  [CHI EA '18]
+2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. [AH '18] [Best Demo Award]
+2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. [CHI EA '18]
 2020. CN Patent. A System of Vehicle to Everything.  (accepted)
 2020. CN Patent. An On-Board Project Device. (pending)
 
