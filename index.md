@@ -39,7 +39,7 @@ Industrial Design • Media Art
 
 **Keio University**
 
-Sep 2015 - Mar 2018. Tokyo, Japan.
+Sep 2015 - 23 Mar 2018. Tokyo, Japan.
 
 - Human-Computer Interaction, Graudate School of Media Design.
 - [English Instruction](https://www.keio.ac.jp/en/academics/programs-offered-in-english/index.html), GPA: 3.84 / 4.33.
@@ -64,7 +64,7 @@ Sep 2016 - Dec 2016. London, UK.
 
 **Beihang University**
 
-Sep 2010 - Jun 2014. Beijing, China.
+15 Sep 2010 - 1 Jul 2014. Beijing, China.
 
 - Industrial Design, School of Mechanical Engineering.
 - Outstanding Graduate, GPA: 3.6 / 4.0.
