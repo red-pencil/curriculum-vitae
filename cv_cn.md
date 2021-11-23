@@ -10,9 +10,11 @@
 
 电子邮箱: [lichao.shen@hotmail.com](mailto:lichao.shen@hotmail.com)
 
-设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), [cv.shenlichao.com/#design](http://cv.shenlichao.com/#design)
+设计作品集: [issuu.com/lichaoshen](https://issuu.com/lichaoshen/docs/portfolio3.3re), <http://cv.shenlichao.com/#design>
 
-项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), [cv.shenlichao.com/#research](http://cv.shenlichao.com/#research)
+项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), <http://cv.shenlichao.com/#research>
+
+
 
 
 
