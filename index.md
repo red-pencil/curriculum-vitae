@@ -11,29 +11,28 @@
 
 ## Fields of Interest
 
-### Computer Science and Engineering
 
-Human-Computer Interaction • User Interface
+
+### Human-Computer Interaction 
+
+User Interface
 
 Virtual Reality • Mixed Reality • Wearable Computing • Haptics
 
-Brain-Computer Interface • Skin and Musle Interface 
-
-### Human Enhancement
-
-Cognitive Science • Neuroscience
-
-Mechanical Engineering • Robotics
-
-### Design
-
-Interaction Design • User Experience
-
-Industrial Design • Media Art
+Robotics • Interaction Design
 
 
 
 ## Education
+
+
+
+### PhD
+
+**McGill Univeristy**
+
+Sep 2021 - present. Montreal, Canada.
+
 
 ### Master
 
@@ -45,12 +44,10 @@ Sep 2015 - 23 Mar 2018. Tokyo, Japan.
 - [English Instruction](https://www.keio.ac.jp/en/academics/programs-offered-in-english/index.html), GPA: 3.84 / 4.33.
 - Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*.
 - Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze.
+- [Global Innovation Design](http://globalinnovationdesign.org/)
+- **Pratt Institute**, Jan 2017 - May 2017. Brooklyn, US.
 
-**Pratt Institute** 
-
-Jan 2017 - May 2017. Brooklyn, US.
-
-- [Global Innovation Design](http://globalinnovationdesign.org/), School of Design. (Exchange Study.)
+ School of Design. (Exchange Study.)
 
 **Royal College of Art & Imperial College London**
 
