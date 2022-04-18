@@ -33,6 +33,9 @@ Robotics • Interaction Design
 
 Sep 2021 - present. Montreal, Canada.
 
+- Shared Reality Lab, Centre for Intelligent Machines.
+- Department of Electraical and Computer Engneering, Faculty of Engineering.
+
 
 ### Master
 
@@ -44,17 +47,20 @@ Sep 2015 - 23 Mar 2018. Tokyo, Japan.
 - [English Instruction](https://www.keio.ac.jp/en/academics/programs-offered-in-english/index.html), GPA: 3.84 / 4.33.
 - Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*.
 - Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze.
-- [Global Innovation Design](http://globalinnovationdesign.org/)
-- **Pratt Institute**, Jan 2017 - May 2017. Brooklyn, US.
 
- School of Design. (Exchange Study.)
+
+**Pratt Institute**
+
+Jan 2017 - May 2017. Brooklyn, US.
+
+- [Global Innovation Design](http://globalinnovationdesign.org/)
+
 
 **Royal College of Art & Imperial College London**
 
 Sep 2016 - Dec 2016. London, UK.
 
-- [Global Innovation Design](http://globalinnovationdesign.org/), School of Design.  (Exchange Study.)
-
+- [Global Innovation Design](http://globalinnovationdesign.org/)
 
 
 ### Bachelor
@@ -145,23 +151,23 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 ## Patents
 
-- CN Patent. A System of Vehicle to Everything. (accepted)
-- CN Patent. An On-Board Project Device. (pending)
+- CN Patent. A System of Vehicle to Everything. 2021.
+- CN Patent. An On-Board Project Device. 2021.
 
 
 
 
 ## Exhibitions
 
-- Auto China 2014, 13th Beijing International Vehicle Exhibition. Work: AERO Racing Car.
-- *City Museum Tokyo* Design Show. Work: Hahaki Postcard System.
+- Auto China, 13th Beijing International Vehicle Exhibition. Work: AERO Racing Car. 2014.
+- *City Museum Tokyo* Design Show. Work: Hahaki Postcard System. 2014.
 
 
 
 
 ## Awards
 
-- Best Demo Award, 2018 Augmented Human 9th International Conference (AH '18). 2018
+- Best Demo Award, 2018 Augmented Human 9th International Conference (AH '18). 2018.
 - Design Excellent Prize, *Gifts of Fuyang* Design Competition. 2013.
 - Finalist, Red Dot Design Award. 2013.
 - Second Prize, Fengru Cup Student Innovation Competition. 2011.
