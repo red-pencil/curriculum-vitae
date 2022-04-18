@@ -151,8 +151,8 @@ Sep 2013 - Feb 2014. Beijing, China.
 
 ## Patents
 
-- CN Patent. A System of Vehicle to Everything. 2021.
-- CN Patent. An On-Board Project Device. 2021.
+- CN211319386U, A System of Vehicle to Everything. 2020.
+- CN214507271U, An On-Board Project Device. 2021.
 
 
 
