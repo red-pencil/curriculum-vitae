@@ -20,14 +20,6 @@ Robotics • Interaction Design
 
 ## Education
 
-### PhD
-
-**McGill Univeristy**
-
-Sep 2021 - present. Montreal, Canada.
-
-- Shared Reality Lab, Centre for Intelligent Machines.
-- Department of Electraical and Computer Engneering, Faculty of Engineering.
 
 ### Master
 
@@ -36,7 +28,7 @@ Sep 2021 - present. Montreal, Canada.
 Sep 2015 - 23 Mar 2018. Tokyo, Japan.
 
 - Human-Computer Interaction, Graudate School of Media Design.
-- [English Instruction](https://www.keio.ac.jp/en/academics/programs-offered-in-english/index.html), GPA: 3.84 / 4.33.
+- GPA: 3.84 / 4.33. [English Instruction](https://www.keio.ac.jp/en/academics/programs-offered-in-english/index.html).
 - Thesis: *Visual Expansion by Animal-Inspired Visuomotor Modification*.
 - Supervisor: Prof. Kouta Minamizawa; Co-supervisor: Prof. Kai Kunze.
 
@@ -59,7 +51,7 @@ Sep 2016 - Dec 2016. London, UK.
 15 Sep 2010 - 1 Jul 2014. Beijing, China.
 
 - Industrial Design, School of Mechanical Engineering.
-- Outstanding Graduate, GPA: 3.6 / 4.0.
+- GPA: 3.6 / 4.0. Outstanding Graduate.
 
 ## Research Experience
 
