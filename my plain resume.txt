@@ -23,7 +23,7 @@ Master.
 
 %
 
-Master Program (Global Inovation Design).
+Master Exchange Program (Global Innovation Design).
 2017. Pratt Institute.
 2016. Royal College of Art.
 2016. Imperial College London.
@@ -38,14 +38,14 @@ Bachelor.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### RESEARCH EXPERIENCE ###
 
-Research Intern. 
+
 2020. Rochester Institute of Technology, Altered Reality Group.
 - Director: Prof. Roshan Peiris.
 - Finalized the user study of thermal sensation and visuomotor research.
 
 %
 
-Research Intern.
+
 2019. University of Auckland, Empathic Computing Lab.
 - Director: Prof. Mark Billinghurst.
 - Developed applications of remote collaboration and access on standalone mobile platform.
@@ -54,7 +54,7 @@ Research Intern.
 
 %
 
-Research Intern.
+
 2018. Keio University, Embodied Media Project.
 - Director: Prof. Kouta Minamizawa.
 - Research in the fields of haptic sensation, telexistence, virtual reality, and sensory augmentation.
@@ -92,19 +92,20 @@ User Experience Design Intern.
 2020. Visuomotor Influence of Attached Robotic Neck Augmentation. [SUI '20]
 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. [AH '18] [Best Demo Award]
 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications. [CHI EA '18]
-2020. CN Patent. A System of Vehicle to Everything.  (accepted)
-2020. CN Patent. An On-Board Project Device. (pending)
+2020. CN Patent. CN211319386U. Vehicle-road cooperative system.  
+2021. CN Patent. CN214507271U. Projection terminal.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### AWARDS ###
 
 2018. Best Demo Award, Augmented Human 9th International Conference (AH '18).
-2013. Design Excellent Prize, Gifts of Fuyang Design Competition.
+
 
 -----
-
+2013. Excellent Prize, Gifts of Fuyang Design Competition.
 2013. Finalist, Red Dot Design Award.
 2011. Second Prize, Fengru Cup Student Innovation Competition.
+2011. Excellent Prize, Badaling Cup Souvenir of Great Wall Design Competition.
 
 2014. Outstanding Graduate.
 2013. Outstanding Student Leader.

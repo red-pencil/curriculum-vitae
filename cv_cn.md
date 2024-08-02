@@ -14,10 +14,6 @@
 
 项目视频: [youtube.com/mars](https://www.youtube.com/channel/UCuoYD-zYP5onkyi6cYbWcyg), <http://cv.shenlichao.com/#research>
 
-
-
-
-
 ## 兴趣领域
 
 - **人机交互** (HCI)
@@ -26,7 +22,6 @@
 - 认知科学 • 神经科学 • 机器人学 • 机械工程
 - **交互设计** (IxD)
 - 用户体验设计 (UE) • 用户界面设计 (UI) • 媒体设计 • 工业设计
-
 
 ## 专业领域
 
@@ -38,7 +33,6 @@
 产品开发
 产品管理
 产品设计
-
 
 ## 教育背景
 
@@ -59,9 +53,6 @@ Jan 2017 - May 2017 (交换学习)
 
 Sep 2016 - Dec 2016 (交换学习)
 
-
-
-
 ### 工学士
 
 **北京航空航天大学** \| 中国北京
@@ -71,9 +62,6 @@ Sep 2010 - Jun 2014
 - 工业设计
 - 机械工程
 - (优秀毕业生）
-
-
-
 
 ## 行业经历
 
@@ -96,8 +84,6 @@ Sep 2010 - Jun 2014
 - 研究⽤⼾对于各种电⼦产品的⾏为习惯；
 - 进⾏下⼀代智能设备的先⾏设计。
 
-
-
 ## 学术经历
 
 ### 研究员实习
@@ -110,7 +96,6 @@ Sep 2010 - Jun 2014
 
 - 提供设计和方案建议，为XR技术商业化原型和产品。
 
-
 ### 项目研究员
 
 [Embodied Media Project](http://www.embodiedmedia.org), 庆应义塾大学 \| 日本东京
@@ -120,10 +105,6 @@ Sep 2010 - Jun 2014
 - 研究触觉，虚拟现实，⼈类增强，远程存在等相关领域；
 
 - 进⾏实验，开发原型和应⽤。
-
-
-
-
 
 ## 技能
 
@@ -149,20 +130,11 @@ Unity, Arduino, Processing, TeX, Git
 
 **中文** - 母语, **英语** - 学术, **日本** - 初级
 
-
-
-
 ## 出版物
-
 
 **Lichao Shen**, MHD Yamen Saraji, Kai Kunze, and Kouta Minamizawa. 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. In *Proceedings of the 9th Augmented Human International Conference* ([AH '18](http://www.sigah.org/AH2018)). ACM, New York, NY, USA, Article 38, 2 pages. DOI: https://doi.org/10.1145/3174910.3174955 [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
 MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Susumu Tachi. 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  In *Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems* ([CHI EA '18](https://chi2018.acm.org)). ACM, New York, NY, USA,  Paper D321, 4 pages. DOI: https://doi.org/10.1145/3170427.3186483
-
-
-
-
-
 
 ## 荣誉
 
@@ -184,10 +156,6 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 2013/12, 2012/12, 2011/12 \| 中国北京
 
-
-
-
-
 ***
 
 ## 研究项目
@@ -204,9 +172,7 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 人类被自身的感觉所困。与非人类生物多样的超常能力相比，人类的视觉相对狭窄和微弱。根据我的调研，以颈部为代表的人的肌肉骨骼系统是限制视觉空间范围的一个因素。我受非人类生物的启发，提出此名为Limitless Oculus的概念，以帮助人类突破一部分生理限制。即是用特定的人造机制来修改或代替人类原本的视觉-运动协调。此类控制着视觉朝向的机制，被修改设定为可编程的和可定制的。此概念的积极意义在于提高视觉空间朝向的灵活性，并因此实现视觉扩张和视觉代替。此外，采用不同机制会让这个概念有更多的可能性和应用。此方法影响生理层面和认知层面，故不但是一件工具而且可以改变人类的思维方式。此处展示了两个原型设备。然后我进行实验来评估这些原型设备的性能，证明此概念的可行性。结果显示视觉的空间范围被扩大，同时在特定范围内扫视和反应速度得到提高。
 
-
 [**[PDF](pdf/Thesis_KMD_Leon_180219last.pdf)**]
-
 
 ### Unconstrained Neck
 
@@ -218,7 +184,6 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 [**[DOI](https://dl.acm.org/citation.cfm?id=3174955)**] . [**[PDF](pdf/a38-shen.pdf)**] . [**[Video](http://cv.shenlichao.com/videos/ah2018.mp4)**] . [**[Best Demo Award](http://www.sigah.org/AH2018/gallery)**]
 
-
 ### Ambient
 
 氛围：**远程操作应用中的面部温度反馈**
@@ -229,21 +194,17 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 
 [**[DOI](https://dl.acm.org/citation.cfm?doid=3170427.3186483)**] . [**[PDF](pdf/paper1375.pdf)**] . [**[Video](http://cv.shenlichao.com/videos/chi2018.mp4)**]
 
-
 ### Eye-in-Hand
 
 手中眼：**蜗牛仿生眼，手导向视觉，同时观察双重场景**
 
 自然情况下，人的双眼是协同工作的，朝向相同，因而所接受的视觉刺激基本是等同的。双眼被分配不同内容的情况会引发全新的视觉体验。我们制作了一个可穿戴式设备，此设备从双手的位置分别获取不相同的影像，并分别传递给双眼，效果即使用上肢来控制视觉的朝向。整个系统将两个不同的图像来源整合，在避免双目竞争的前提下，让用户能够同时观测两个不同朝向的视觉信息。此设备提高了视觉朝向的灵活性，激进地改变了视觉-运动协调。我们得以检测用户对分离视觉的适应程度和相应不适的副作用。
 
-
 ### Bug View
 
 虫视角：**"变形记", 从人体到蜘蛛机器人的远程存在**
 
 现有的远程存在技术多集中研究人形机器人和复制重现人类的感觉。Bug View别出心裁地关注将人类身体意识映射到非人类对象，而非人类地对象往往具有和人类完全不同的身体构造。本项目采用仿生蜘蛛机器人作为对象，目标是实现对仿生蜘蛛机器人的无缝操控，进一步产生“成为一只蜘蛛”的浸入式体验。这其中人机映射可分为感觉器官映射和运动器官映射。我们提出了几种可行的方法并且制作了交互原型。然后我们计划用实验寻找能够提供最高程度存在意识的最优解决方案。最后讨论了此类技术的潜在的应用。
-
-
 
 ## 设计项目
 
@@ -257,7 +218,6 @@ MHD Yamen Saraiji, Roshan Lalintha Peiris, Lichao Shen, Kouta Minamizawa, and Su
 - 制作网上众筹所需媒体材料，包括品牌故事，宣传视频，生产预算和计划。
 
 [**[Kickstarter](https://www.kickstarter.com/projects/332555363/1830982200?ref=454281&token=0cc2d35a)**] . [**[Video](http://cv.shenlichao.com/videos/tpscreamer.mp4)**]
-
 
 ### Hahaki
 
@@ -276,4 +236,3 @@ AERO-2013赛车是AERO学生车队的2013年度车型，它为学生方程式系
 - 参与车辆的制造。
 
 [**[PDF](http://cv.shenlichao.com/docs/shen_lichao%20portfolio.pdf#page=10)**]
-

@@ -30,7 +30,7 @@ lichao.job@outlook.com
 ### 工作经历 ###
 
 产品经理.
-2019 - 至今. 中国移动上海产业研究院.
+2019 - 2021. 中国移动上海产业研究院.
 - 研究信息通讯技术及交通行业的解决方案，涵盖车联网、人车交互、车路网协同、自动驾驶等技术领域；
 - 管理和路通系列车载终端产品，参与需求评估、设计迭代、工厂生产、软件开发、云平台支撑；
 - 研发、设计新产品，申请专利，结合C-V2X、全息投影、增强现实等技术，面向消费者和面向行业用户；
@@ -44,6 +44,20 @@ lichao.job@outlook.com
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### 研究经历 ###
+
+分享现实实验室 (Shared Reality Lab).
+2021-2024. 麦吉尔大学. 加拿大蒙特利尔.
+- 指导教授：Jeremy Cooperstock
+- 探索情感计算、触觉、远程存在、人工智能生成内容、虚拟现实等领域的研究与应用。
+- 研究借助灯光、温度、震动等媒介，通过内含或外显的形式远程传递状态与情感。
+
+%
+
+昆山杜克人机交互实验室 (DKU HCI Lab).
+2023-2024. 昆山杜克大学. 中国昆山.
+- 研究AIGC为孤独症儿童提供个性化的教学辅助和教育材料。
+
+%
 
 Empathic Computing Lab. 
 2019. 奥克兰大学. 
@@ -59,30 +73,105 @@ Embodied Media Project.
 - 研究触觉、虚拟现实、人类增强、远程存在和机器人等领域；
 - 进行实验，制作原型和开发应用，使用JS，C#和Python。
 
+
+
+
+\runsubsection{昆山杜克人机交互实验室}\descript{昆山杜克大学}
+\descript{\snote{2023-2024}{中国昆山}\note{DKU HCI Lab}{Duke Kunshan University}}
+\begin{tightemize}
+\item 研究AIGC为孤独症儿童提供个性化的教学辅助和教育材料。
+\end{tightemize}
+\sectionsep
+
+\runsubsection{虚拟现实隐私项目组}\descript{马里兰大学}
+\descript{\snote{2022}{美国巴尔的摩}\note{VR Privacy Project}{University of Maryland, Baltimore County}}
+\begin{tightemize}
+\item 研究VR环境中隐私提醒的形式与方法。
+\end{tightemize}
+\sectionsep
+
+
+\runsubsection{代替现实项目组}\descript{罗彻斯特理工学院}
+\descript{\snote{2020}{美国罗彻斯特}\note{Altered Reality Group}{Rochester Institute of Technology}}
+\begin{tightemize}
+\item 研究用户体验温度感知和视觉运动的影响。
+\end{tightemize}
+\sectionsep
+
+
+\runsubsection{共感计算实验室}\descript{奥克兰大学}
+\descript{\snote{2019}{新西兰奥克兰}\note{Empathic Computing Lab}{University of Auckland}}
+\begin{tightemize}
+\item 开发移动平台上的远程协作和虚拟现实体验；
+\item 设计产品原型，研发VR/AR技术商业化产品。
+\end{tightemize}
+\sectionsep
+
+
+\runsubsection{具象媒体项目组}\descript{庆应义塾大学}
+\descript{\snote{2018}{日本东京}\note{Embodied Media Project}{Keio University}}
+\begin{tightemize}
+%%\href{www.embodiedmedia.org}{Embodied Media Project}
+\item 研究触觉、虚拟现实、人类增强、远程存在和机器人等领域；
+\item 进行实验，制作原型和开发应用，使用JS，C\#和Python。
+\end{tightemize}
+\sectionsep
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### 教育背景 ###
 
 硕士.
-2015 - 2018. 庆应义塾大学.
-- 人机交互，媒体设计；英语课程；GPA 3.84 / 4.33
+2015/09 - 2018/03. 庆应义塾大学.
+- 人机交互，媒体设计研究生院；
+- 英语课程；GPA 3.84 / 4.33
+- 
 
 硕士项目. (交换学习)
-2017. 普瑞特艺术学院
-2016. 皇家艺术学院
-2016. 帝国理工学院
+- 2017. 普瑞特艺术学院
+- 2016. 皇家艺术学院
+- 2016. 帝国理工学院
 
 学士.
-2010 - 2014. 北京航空航天大学.
-- 工业设计，机械工程；优秀毕业生；GPA 3.6 / 4.0
+2010/09 - 2014/07. 北京航空航天大学.
+- 工业设计，机械工程学院；
+- 优秀毕业生；GPA 3.6 / 4.0
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ### 出版物 ###
 
-2020. 专利. 一种车路协同系统.
+2020. 专利CN211319386U. 一种车路协同系统.
+2021. 专利CN214507271U. 一种投影设备.
 
 2020. Visuomotor Influence of Attached Robotic Neck Augmentation.  [SUI '20]
 2018. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck.  [AH '18]
 2018. Ambient: Facial Thermal Feedback in Remotely Operated Applications.  [CHI EA '18]
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2020. [SUI '20]. Visuomotor Influence of Attached Robotic Neck Augmentation. Lichao Shen, MHD Yamen Saraiji, Kai Kunze, Kouta Minamizawa, and Roshan Lalintha Peiris. In Symposium on Spatial User Interaction (SUI '20). DOI:https://doi.org/10.1145/3385959.3418460
+
+2018. [CHI EA '18]. Ambient: Facial Thermal Feedback in Remotely Operated Applications. MHD Yamen Saraiji, Roshan Lalintha Peiris,  Kouta Minamizawa, and Susumu Tachi. In Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems (CHI EA '18). DOI: https://doi.org/10.1145/3170427.3186483
+
+2018. [AH '18]. Unconstrained Neck: Omnidirectional Observation from an Extra Robotic Neck. Lichao Shen, MHD Yamen Saraiji, Kai Kunze, and Kouta Minamizawa. In Proceedings of the 9th Augmented Human International Conference (AH '18). DOI: https://doi.org/10.1145/3174910.3174955
+[Best Demo Award (Top1)]
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+### AWARDS ###
+
+2018. 最佳原型展示奖, Augmented Human 9th International Conference (AH '18).
+
+-----
+2013. 优秀奖，富阳礼物设计大赛.
+2013. 最终名单，红点设计奖
+2011. 二等奖，冯如杯学生创新大赛
+2011. 优秀奖，八达岭杯长城纪念品设计大赛
+
+2014. 优秀毕业生
+2013. 优秀学生干部
+2011. 三好学生
+
+2013. 学习优秀奖学金（连续三年）
+2013. 社会工作奖学金
+2011. 科技竞赛奖学金
+
+
+
